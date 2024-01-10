@@ -5,7 +5,6 @@
 * **[Resume Resources](#resume-resources)**
 * **[Github Master](#github-master)**
 
-
 ### Resume walkthroug 
 1. ✅ Use a pre-designed resume template
 2. ✅ Make the resume fit on 1 page
@@ -22,9 +21,7 @@
 13. ✅ Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
 14. ✅ No typos or bad gramma
 
-
 ### Resume Resources
-
 I recommend you read through **[this article](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)** which gives some additional advice on how to make sure your resume send the right message and it is affective as possible.
 
 If you are looking for more inspiration on what successful resumes look like for engineers, you can use **[this link to see some samples](https://www.cakeresume.com/Engineering-resume-samples)**.
