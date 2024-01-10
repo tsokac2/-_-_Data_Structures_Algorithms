@@ -3,6 +3,8 @@
 ### Section overview
 * **[Resume Walkthroug](#resume-walkthroug)**
 * **[Resume Resources](#resume-resources)**
+* **[Github Master](#github-master)**
+
 
 ### Resume walkthroug 
 1. ✅ Use a pre-designed resume template
@@ -21,7 +23,6 @@
 14. ✅ No typos or bad gramma
 
 
-git 
 ### Resume Resources
 
 I recommend you read through **[this article](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)** which gives some additional advice on how to make sure your resume send the right message and it is affective as possible.
@@ -33,6 +34,23 @@ Finally, here are three more free resume templates that I have discovered that w
 1. https://thisresumedoesnotexist.com
 2. https://docs.rxresu.me/tutorial/create-a-new-resume
 3. https://www.open-resume.com/
+
+**[Back to The TOP](#section-overview)**
+#
+### Github Master
+Don't have a good Github history? 
+
+Don't worry! 
+
+If you are looking to add a little flare to your Github profile, which a lot of recruiters check, you can try using this tool: https://github.com/gelstudios/gitfiti
+
+Heads up! 
+
+Some people have had a hard time following the gitfiti instructions/readme. For this reason, I have also included an easier alternative that you can use: https://github.com/ZachSaucier/github-calendar-customizer
+
+It will generate a file for you full of git commands which you will be able to run and design your Github history whichever way you want. Make sure you read the instructions and understand what it does!
+
+If you want to make your Github profile stand out, then here is a **[video](https://www.youtube.com/watch?v=ktN5tDfQ_g8)** that walks you through how to setup a professional and visually appealing README. Check it out!
 
 **[Back to The TOP](#section-overview)**
 #
