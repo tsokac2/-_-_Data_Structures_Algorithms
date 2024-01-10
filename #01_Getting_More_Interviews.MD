@@ -20,6 +20,7 @@
 12. ✅ Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive
 13. ✅ Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
 14. ✅ No typos or bad gramma
+#
 
 ### Resume Resources
 I recommend you read through **[this article](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)** which gives some additional advice on how to make sure your resume send the right message and it is affective as possible.
@@ -34,6 +35,7 @@ Finally, here are three more free resume templates that I have discovered that w
 
 **[Back to The TOP](#section-overview)**
 #
+
 ### Github Master
 Don't have a good Github history? 
 
