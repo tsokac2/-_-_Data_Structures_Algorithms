@@ -4,6 +4,9 @@
 * **[Resume Walkthroug](#resume-walkthroug)**
 * **[Resume Resources](#resume-resources)**
 * **[Github Master](#github-master)**
+* **[LinkedIn](#linkedIn)**
+
+
 
 ### Resume walkthroug 
 1. ✅ Use a pre-designed resume template
@@ -53,3 +56,13 @@ If you want to make your Github profile stand out, then here is a **[video](http
 
 **[Back to The TOP](#section-overview)**
 #
+
+### LinkedIn
+
+5 Must-Know LinkedIn Profile Tips for Job Seekers check on this **[link](https://www.youtube.com/watch?v=B4OhuzwLc9o)**
+
+Finally, we have an additional video that you can watch on the ZTM Youtube channel that walks you through how you can **[Setup your LinkedIn profile](https://www.youtube.com/watch?v=D48ER-3dlFI)**.
+
+**[Back to The TOP](#section-overview)**
+#
+
