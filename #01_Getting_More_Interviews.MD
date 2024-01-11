@@ -52,7 +52,7 @@ Some people have had a hard time following the gitfiti instructions/readme. For 
 
 It will generate a file for you full of git commands which you will be able to run and design your Github history whichever way you want. Make sure you read the instructions and understand what it does!
 
-If you want to make your Github profile stand out, then here is a **[video](https://www.youtube.com/watch?v=ktN5tDfQ_g8)** that walks you through how to setup a professional and visually appealing README. Check it out!
+If you want to make your Github profile stand out, then here is a **[video](https://www.youtube.com/watch?v=ktN5tDfQ_g8)** that walks you through how to setup a professional and visually appealing [README](https://www.profileme.dev/create-profile). Check it out!
 
 **[Back to The TOP](#section-overview)**
 #
