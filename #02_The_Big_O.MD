@@ -79,6 +79,13 @@ Two separate collections: ``O(a * b)``
 | Insertion Sort | 	O(1) | O(n) | O(n^2)  |
 
 
+### Common Data Structure Operations
+
+| Worst Case→ | Access | Search | Insertion | Deletion | Space Complexity |
+| -------- | ------| --------| -------- | -------- | -------- |
+| Array | O(1) | O(n) | O(n)  | O(n)  | O(n)  |
+
+
 ### Rule Book
 
 **Rule 1:** Always worst Case
