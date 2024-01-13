@@ -135,6 +135,14 @@ Here is a list of recommended resources for finding the job:
 * **[Zip Recruiter](https://www.ziprecruiter.ie/)**
 * **[Meetup.com](https://www.meetup.com/)**
 
+**[Back to The TOP](#section-overview)**
+#
+
+### Monthly Industry Updates
+
+Every month, we accumulate all of the best resources and articles, as well as free resources around the web for Python, Web and Machine Learning Developers. 
+
+If you want to stay up to date with the industry and make sure you don't miss any important news, you can check out the monthly newsletter **[here](https://zerotomastery.io/newsletters/web-development-monthly/1/)**.
 
 **[Back to The TOP](#section-overview)**
 #
