@@ -5,6 +5,10 @@
 * **[Resume Resources](#resume-resources)**
 * **[Github Master](#github-master)**
 * **[LinkedIn](#linkedIn)**
+* **[Portfolio](#portfolio)**
+* **[Email](#email)**
+
+
 
 
 
@@ -86,4 +90,31 @@ Finally, for extra inspiration, you can see a list of some really great portfoli
 **[Back to The TOP](#section-overview)**
 #
 
-### 
+### Email
+
+Chrome Extensions:
+
+* **[Hunter](https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en&pli=1)**
+
+* **[Contact Out](https://chromewebstore.google.com/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en&pli=1)**
+
+* **[Email Extractor](https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en)**
+
+Here is the sample email for the first contact video:
+```
+Hey $BOB,
+I saw your presentation at $CONFERENCE last year on Youtube (rr point to some work they have done).
+Great stuff; loved what you did with $FOO, in particular
+$COMMENT_PROVING_YOU_KNOW_WHAT_YOU'RE_TALKING_ABOUT.
+I'm also a $FOO developer. I noticed that your company is hiring
+or $ROLE. I’d love to be a part of your team. Do you have a
+few minutes to chat on Thursday about what you guys are doing?
+ 
+Thanks,
+Yourname
+Your website or any public profile link
+```
+**[Back to The TOP](#section-overview)**
+#
+
+###
