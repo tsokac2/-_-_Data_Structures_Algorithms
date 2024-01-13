@@ -120,30 +120,20 @@ Your website or any public profile link
 
 Here is a list of recommended resources for finding the job:
 
-My Favourites:
+* **LinkedIn Jobs**
+* **[HackerNews Who is Hiring](https://news.ycombinator.com/item?id=17902901) (You will need to search for most recent month)**
+* **[AngelList](https://wellfound.com/jobs)**
 
-LinkedIn Jobs
+#### Remote Jobs:
+* **[designmodo](https://weworkremotely.com/)**
+* **[weworkremotely](https://designmodo.com/jobs/)**
+* **[remoteok](https://remoteok.io/)**
 
-HackerNews Who is Hiring (You will need to search for most recent month)
+#### Others:
 
-AngelList
-
-
-
-Remote Jobs:
-https://designmodo.com/jobs/
-https://weworkremotely.com/
-https://remoteok.io/
-
-Others:
-
-TripleByte
-
-Whitetruffle
-
-Zip Recruiter
-
-Meetup.com
+* **[Whitetruffle](https://whitetruffle.com/)**
+* **[Zip Recruiter](https://www.ziprecruiter.ie/)**
+* **[Meetup.com](https://www.meetup.com/)**
 
 
 **[Back to The TOP](#section-overview)**
