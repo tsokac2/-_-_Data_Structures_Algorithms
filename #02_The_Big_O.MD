@@ -36,6 +36,8 @@ const findNemo = (arr) => {
 };
 
 findNemo(nemo);
+
+// Result in the console: Found NEMO!
 ```
 
 **[Big O cheatsheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)** for you as you go through this section and the rest of the course. 
