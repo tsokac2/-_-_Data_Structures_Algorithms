@@ -5,7 +5,7 @@
 * **[Big O Cheatsheet](#big-o-cheatsheet)**
 * **[What Is Good Code](#what-is-good-code)**
 * **[Big O and Scalability](#big-o-and-scalability)**
-* **[O(n)](#o-n)**
+* **[O(n)](#o-1)**
 
 ### Setting Up Your Environment
 
@@ -173,7 +173,7 @@ findNemo(everyone);
 **[Back to The TOP](#section-overview)**
 #
 
-### <a name="o-n">O(n)</a>
+### <a name="o-1">O(n)</a>
 
 #### O(n) - Linear Time
 Is a mathematical notation used to describe the growth rate of a function. In computer science, it is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
