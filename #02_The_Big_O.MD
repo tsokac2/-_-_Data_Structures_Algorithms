@@ -2,8 +2,8 @@
 
 ### Section overview
 * **[Setting Up Your Environment](#setting-up-your-environment)**
-
-
+* **[Big O Cheatsheet](#big-o-cheatsheet)**
+* **[What Is Good Code](#what-is-good-code)**
 
 ### Setting Up Your Environment
 
@@ -13,3 +13,20 @@ When it comes to popular online Integrated Development Environments (IDEs), ther
 * **[glot](https://glot.io/)**
 * **[jsbin](https://jsbin.com/?html,output)**
 * **[Online Python Compiler](https://www.onlinegdb.com/online_python_compiler)**
+
+### Big O Cheatsheet
+
+**[Big O cheatsheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)** for you as you go through this section and the rest of the course. 
+
+This is a good guide that you can use to remind yourself of some of the key points/tricks when going for an interview. 
+
+**[Back to The TOP](#section-overview)**
+#
+
+### What Is Good Code
+
+1. Readable
+2. Scalable
+
+**[Back to The TOP](#section-overview)**
+#
