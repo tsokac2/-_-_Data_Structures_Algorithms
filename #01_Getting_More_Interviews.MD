@@ -66,3 +66,24 @@ Finally, we have an additional video that you can watch on the ZTM Youtube chann
 **[Back to The TOP](#section-overview)**
 #
 
+### Portfolio
+A great place to share your portfolio and see other people's portfolio is in our Discord community. 
+
+Have a look at the **Job Hunting** category for all related conversation regarding portfolios, job interviews, etc... Finally, you can add your own profile including your portfolio to our student led Job Board right here: https://github.com/zero-to-mastery/ZtM-Job-Board
+
+If you are looking for a quick and efficient way of building a portfolio page, I recommend these free templates:
+
+* [Cruip](https://cruip.com/) -  (This is my favourite)
+
+* [Mashup Templates](https://ecomm.design/ecommerce-website-templates/)
+
+* [Bootstrap Templates](https://mdbootstrap.com/freebies/)
+
+* [Creative Tim Templates](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price)
+
+Finally, for extra inspiration, you can see a list of some really great portfolios **[here](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae)**.
+
+**[Back to The TOP](#section-overview)**
+#
+
+### 
