@@ -16,6 +16,12 @@ When it comes to popular online Integrated Development Environments (IDEs), ther
 
 ### Big O Cheatsheet
 
+**Big O notation** is a way to describe the performance or complexity of an algorithm in terms of time and space. 
+
+It provides an upper bound on the growth rate of the function that represents the algorithm's efficiency. 
+
+In simpler terms, it helps us analyze how the runtime or space requirements of an algorithm scale with the input size.
+
 **[Big O cheatsheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)** for you as you go through this section and the rest of the course. 
 
 This is a good guide that you can use to remind yourself of some of the key points/tricks when going for an interview. 
