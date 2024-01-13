@@ -8,7 +8,7 @@
 * **[Portfolio](#portfolio)**
 * **[Email](#email)**
 * **[Where To Find Jobs](#where-to-find-jobs)**
-
+* **[Monthly Industry Updates](#monthly-industry-updates)**
 
 
 ### Resume walkthroug 
