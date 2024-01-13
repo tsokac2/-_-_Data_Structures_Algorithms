@@ -22,6 +22,22 @@ It provides an upper bound on the growth rate of the function that represents th
 
 In simpler terms, it helps us analyze how the runtime or space requirements of an algorithm scale with the input size.
 
+Basic JavaScript forLoop example:
+
+```
+const nemo = ['nemo'];
+
+const findNemo = (arr) => {
+  for(let i = 0;  i < arr.length; i++){
+    if(arr[i] === 'nemo'){
+      console.log("Found NEMO!");
+    }
+  }
+};
+
+findNemo(nemo);
+```
+
 **[Big O cheatsheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)** for you as you go through this section and the rest of the course. 
 
 This is a good guide that you can use to remind yourself of some of the key points/tricks when going for an interview. 
