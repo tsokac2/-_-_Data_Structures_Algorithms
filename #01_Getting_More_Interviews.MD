@@ -7,8 +7,7 @@
 * **[LinkedIn](#linkedIn)**
 * **[Portfolio](#portfolio)**
 * **[Email](#email)**
-
-
+* **[Where To Find Jobs](#where-to-find-jobs)**
 
 
 
@@ -117,4 +116,35 @@ Your website or any public profile link
 **[Back to The TOP](#section-overview)**
 #
 
-###
+### Where To Find Jobs
+
+Here is a list of recommended resources for finding the job:
+
+My Favourites:
+
+LinkedIn Jobs
+
+HackerNews Who is Hiring (You will need to search for most recent month)
+
+AngelList
+
+
+
+Remote Jobs:
+https://designmodo.com/jobs/
+https://weworkremotely.com/
+https://remoteok.io/
+
+Others:
+
+TripleByte
+
+Whitetruffle
+
+Zip Recruiter
+
+Meetup.com
+
+
+**[Back to The TOP](#section-overview)**
+#
