@@ -4,6 +4,9 @@
 * **[Setting Up Your Environment](#setting-up-your-environment)**
 * **[Big O Cheatsheet](#big-o-cheatsheet)**
 * **[What Is Good Code](#what-is-good-code)**
+* **[Big O and Scalability](#big-o-and-scalability)**
+* **[O(n)](#O(n))**
+
 
 ### Setting Up Your Environment
 
@@ -63,6 +66,17 @@ This is a good guide that you can use to remind yourself of some of the key poin
 Iterating through half a collection is still ``O(n)``
 
 Two separate collections: ``O(a * b)``
+
+| Big O | Name | Description |
+| -------- | ------| --------|
+| 1 | Constant | statement, one line of code |
+| log(n) | Logarithmic | Divide and conquer (binary search) |
+| n | Linear | Loop |
+| n*log(n) | Linearithmic | Effective sorting algorithms |
+| n^2 | Quadratic | Double loop |
+| n^3 | Cubic | Triple loop |
+| 2^n | Exponential | Complex full search |
+
 
 ### What Can Cause Time in a Function?
 
@@ -131,6 +145,66 @@ Two separate collections: ``O(a * b)``
 #
 
 ### Big O and Scalability
+
+**Performance Measurement example**
+
+The time taken to find **'nemo'** in the array is measured, and the result is logged to the console.
+
+```
+const nemo = ['nemo'];
+const everyone = ['dory', 'bruce', 'marlin', 'nemo', 'gill', 'bloat', 'nigel', 'squirt', 'darla', 'hank'];
+const large = new Array(100).fill('nemo');
+
+const findNemo = (arr) =>{
+  let t0 = performance.now();
+  for(let i = 0; i < arr.length; i++){
+   if(arr[i] === 'nemo'){
+     console.log("Nemo FOUND!");
+   }
+  }
+  
+  let t1 = performance.now();
+  const showResult = "Call to find Nemo took " + (t1-t0) + " millseconds";
+  console.log(showResult);
+}
+
+findNemo(everyone);
+```
+
+**[Back to The TOP](#section-overview)**
+#
+
+### O(n)
+
+#### O(n) - Linear Time
+Is a mathematical notation used to describe the growth rate of a function. In computer science, it is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
+
+An algorithm with **O(n)** time complexity means that the algorithm's run time will grow linearly with the input size.
+
+
+Code example:
+
+```
+//ES5
+function compressAllBoxes(boxes){
+  boxes.forEach(function(item){
+      console.log(item);
+  });
+}
+
+//ES6
+const compressAllBoxes = boxes => {
+  boxes.forEach(box => console.log(box));
+}
+```
+
+**[Back to The TOP](#section-overview)**
+#
+
+
+
+
+
 
 
 **[Back to The TOP](#section-overview)**
