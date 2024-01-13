@@ -129,3 +129,9 @@ Two separate collections: ``O(a * b)``
 
 **[Back to The TOP](#section-overview)**
 #
+
+### Big O and Scalability
+
+
+**[Back to The TOP](#section-overview)**
+#
