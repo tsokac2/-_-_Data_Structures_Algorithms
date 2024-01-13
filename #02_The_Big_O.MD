@@ -7,7 +7,6 @@
 * **[Big O and Scalability](#big-o-and-scalability)**
 * **[O(n)](#o-n)**
 
-
 ### Setting Up Your Environment
 
 When it comes to popular online Integrated Development Environments (IDEs), there are several noteworthy options that have gained popularity for their features and ease of use. Let's explore a few of them:
@@ -174,7 +173,7 @@ findNemo(everyone);
 **[Back to The TOP](#section-overview)**
 #
 
-### O(n)
+### <a name="o-n">O(n)</a>
 
 #### O(n) - Linear Time
 Is a mathematical notation used to describe the growth rate of a function. In computer science, it is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
