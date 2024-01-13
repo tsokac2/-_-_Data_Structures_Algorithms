@@ -5,7 +5,7 @@
 * **[Big O Cheatsheet](#big-o-cheatsheet)**
 * **[What Is Good Code](#what-is-good-code)**
 * **[Big O and Scalability](#big-o-and-scalability)**
-* **[O(n)](#O\(n\))**
+* **[O(n)](#o(n))**
 
 
 ### Setting Up Your Environment
