@@ -7,6 +7,7 @@
 * **[Big O and Scalability](#big-o-and-scalability)**
 * **[O(n)](#o-n)**
 * **[O(1)](#o-1)**
+* **[Exercise: Big O Calculation](#big-o-e)**
 
 ### Setting Up Your Environment
 
@@ -170,17 +171,14 @@ const findNemo = (arr) =>{
 
 findNemo(everyone);
 ```
-
 **[Back to The TOP](#section-overview)**
 #
 
 ### <a name="o-n">O(n)</a>
-
 #### O(n) - Linear Time
 Is a mathematical notation used to describe the growth rate of a function. In computer science, it is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
 
 An algorithm with **O(n)** time complexity means that the algorithm's run time will grow linearly with the input size.
-
 
 Code example:
 
@@ -197,11 +195,20 @@ const compressAllBoxes = boxes => {
   boxes.forEach(box => console.log(box));
 }
 ```
-
 **[Back to The TOP](#section-overview)**
 #
 
 ### <a name="o-1">O(1)</a>
+#### O(1) - Constant Time
+
+**O(1)** denotes constant time complexity, meaning that the algorithm's execution time does not depend on the size of the input. 
+
+Regardless of how large the dataset becomes, the algorithm's performance remains constant.
+
+**[Back to The TOP](#section-overview)**
+#
+
+### <a name="big-o-e">Exercise: Big O Calculation</a>
 
 
 
