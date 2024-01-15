@@ -14,7 +14,7 @@
 * **[Big O Rule 3 - Different terms for inputs](#rule-3)**
 * **[Big O Rule 4 - Drop Non Dominants](#rule-4)**
 * **[Big O Cheat-Sheet](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/BigO-cheat-sheet.pdf)**
-* **[3 Pillars Of Programming](3-pillars-of-programming)**
+* **[3 Pillars Of Programming](#3-pillars-of-programming)**
 
 ### Setting Up Your Environment
 
