@@ -14,6 +14,7 @@
 * **[Big O Rule 3 - Different terms for inputs](#rule-3)**
 * **[Big O Rule 4 - Drop Non Dominants](#rule-4)**
 * **[Big O Cheat-Sheet](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/BigO-cheat-sheet.pdf)**
+* **[3 Pillars Of Programming](3-pillars-of-programming)**
 
 ### Setting Up Your Environment
 
@@ -394,5 +395,45 @@ function anotherFunction(arr) {
 
 Even though we have added a constant time operation ``(console.log(arr[0]))``, when analyzing the time complexity, we still focus on the dominant term, which is the nested loops. Therefore, the overall time complexity remains ``O(n^2)``.
 
+**[Back to The TOP](#section-overview)**
+#
+
+### 3 Pillars Of Programming
+
+1. Readable
+2. Scalable
+  - Speed - Time Complexity
+  - Memory - Space Complexity
+
+#### Space complexity
+
+Space complexity in programming is a measure of the amount of memory an algorithm or program uses in relation to the size of its input. 
+
+It is a crucial aspect of algorithm analysis, as it determines the resources required to run the algorithm efficiently. 
+
+Just as time complexity characterizes the computational effort, space complexity quantifies the memory overhead.
+
+By understanding space complexity, programmers can make informed decisions about algorithm selection and implementation to optimize resource usage and achieve efficient program performance.
+
+Code examples:
+```
+const booooo = (n) => {
+  for (let i = 0; i < n; i++){
+    console.log("Boooo!")
+  }
+};
+
+booooo(6); //O(1) of Space complexity
+
+// 
+const arrayOfHiNTimes = (n) => {
+  let hiArray = [];
+  for (let i = 0; i < n; i++) {
+    console.log(hiArray[i] = "hi");
+  }
+  return hiArray;
+}
+arrayOfHiNTimes(6); //O(n) Space complexity sice we are ading n items in to hiArray array
+```
 **[Back to The TOP](#section-overview)**
 #
