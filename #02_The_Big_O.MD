@@ -8,6 +8,9 @@
 * **[O(n)](#o-n)**
 * **[O(1)](#o-1)**
 * **[Exercise: Big O Calculation](#big-o-e)**
+* **[Simplifying Big O](#simplifying-big-o)**
+* **[Big O Rule 1 - Worst Case](#rule-1)**
+
 
 ### Setting Up Your Environment
 
@@ -247,5 +250,51 @@ function anotherFunChallenge(input) {
 ```
 **Big O = 4 + 7n = O(n)**
 
+**[Back to The TOP](#section-overview)**
+#
+
+### Simplifying Big O
+
+- **Rule 1**: Worst Case
+- **Rule 2**: Remove Constants
+- **Rule 3**: Different terms for inputs
+- **Rule 4**: Drop Non Dominants
+
+#
+### Big O Rule 1 
+
+### <a name="rule-1">Big O Rule 1 - Worst Case</a>
+
+For a given algorithm, the **worst-case** time complexity is the maximum amount of time it **could** take to complete when given a particular input. 
+
+It is a measure of the algorithm's efficiency when dealing with the least favorable input.
+
+Code example:
+
+```
+const nemo = ['nemo'];
+const everyone = ['dory', 'bruce', 'marlin', 'nemo', 'gill', 'bloat', 'nigel', 'squirt', 'darla', 'hank'];
+
+const findNemo = (arr) =>{
+  for(let i = 0; i < arr.length; i++){
+    console.log(arr[i]);
+   if(arr[i] === 'nemo'){
+     console.log("Nemo FOUND!");
+     break;
+   }
+  }
+}
+
+findNemo(everyone);
+```
+Result in the console:
+
+```
+"dory"
+"bruce"
+"marlin"
+"nemo"
+"Nemo FOUND!"
+```
 **[Back to The TOP](#section-overview)**
 #
