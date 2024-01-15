@@ -12,7 +12,8 @@
 * **[Big O Rule 1 - Worst Case](#rule-1)**
 * **[Big O Rule 2 - Remove Constants](#rule-2)**
 * **[Big O Rule 3 - Different terms for inputs](#rule-3)**
-
+* **[Big O Rule 4 - Drop Non Dominants](#rule-4)**
+* **[Big O Cheat-Sheet]()**
 
 ### Setting Up Your Environment
 
@@ -365,5 +366,33 @@ function cimpressBoxesTwice(a, b){
 }
 cimpressBoxesTwice(box_a, box_b);
 ```
+**[Back to The TOP](#section-overview)**
+#
+
+### <a name="rule-4">Big O Rule 4 - Drop Non Dominants</a>
+
+Big O example: ``O(x^2+3x+100+x/2)`` - if a ``x = 500``, then ``x^2`` will became a dominat. In this case we can drop all **Non** dominants, where the Big O will be - ``O)x^2)``.
+
+**"Drop Non-Dominants,"** deals with simplifying the expression for the time complexity of an algorithm by removing ``less significant`` terms and constants.
+
+Now, let's say we have another piece of code that has an additional constant factor:
+
+```
+function anotherFunction(arr) {
+  // Constant time operation
+  console.log(arr[0]);
+
+  // Outer loop
+  for (let i = 0; i < arr.length; i++) {
+    // Inner loop
+    for (let j = 0; j < arr.length; j++) {
+      console.log(arr[i], arr[j]);
+    }
+  }
+}
+```
+
+Even though we have added a constant time operation ``(console.log(arr[0]))``, when analyzing the time complexity, we still focus on the dominant term, which is the nested loops. Therefore, the overall time complexity remains ``O(n^2)``.
+
 **[Back to The TOP](#section-overview)**
 #
