@@ -10,6 +10,8 @@
 * **[Exercise: Big O Calculation](#big-o-e)**
 * **[Simplifying Big O](#simplifying-big-o)**
 * **[Big O Rule 1 - Worst Case](#rule-1)**
+* **[Big O Rule 2 - Remove Constants](#rule-2)**
+* **[Big O Rule 3 - Different terms for inputs](#rule-3)**
 
 
 ### Setting Up Your Environment
@@ -261,8 +263,6 @@ function anotherFunChallenge(input) {
 - **Rule 4**: Drop Non Dominants
 
 #
-### Big O Rule 1 
-
 ### <a name="rule-1">Big O Rule 1 - Worst Case</a>
 
 For a given algorithm, the **worst-case** time complexity is the maximum amount of time it **could** take to complete when given a particular input. 
@@ -270,7 +270,6 @@ For a given algorithm, the **worst-case** time complexity is the maximum amount 
 It is a measure of the algorithm's efficiency when dealing with the least favorable input.
 
 Code example:
-
 ```
 const nemo = ['nemo'];
 const everyone = ['dory', 'bruce', 'marlin', 'nemo', 'gill', 'bloat', 'nigel', 'squirt', 'darla', 'hank'];
@@ -295,6 +294,76 @@ Result in the console:
 "marlin"
 "nemo"
 "Nemo FOUND!"
+```
+The time complexity of this algorithm in the worst-case scenario is O(n), where 'n' is the size of the input array. This is because, in the worst case, the function needs to traverse the entire list to find the  ``nemo`` element.
+
+With the ``break;`` we can shorten traverse time. 
+
+**[Back to The TOP](#section-overview)**
+#
+
+### <a name="rule-2">Big O Rule 2 - Remove Constants</a>
+
+When we discuss the time complexity using Big O notation, we focus on the **growth rate** of the algorithm as the input size increases. 
+
+``Rule 2`` suggests that we should disregard constant factors when expressing the time complexity. 
+
+In other words, if an algorithm has a time complexity of O(2n) or O(5n), we simplify it to ``O(n)``, as the constant factor (2 or 5) doesn't impact the overall growth rate as significantly as the input size.
+
+Code Example:
+
+```
+function cimpressBoxesTwice(boxes){
+  boxes.forEach(function(boxes){
+    console.log(boxes);
+  });
+
+  boxes.forEach(function(boxes){
+    console.log(boxes);
+  });
+}
+```
+It this example - **``O(2n)`` we can Drop the Constants and simply say - ``O(n)``**
+
+**[Back to The TOP](#section-overview)**
+#
+
+### <a name="rule-3">Big O Rule 3 - Different terms for inputs</a>
+
+**Rule of thumb** - when you see nested loops, the Big O is:  ``O(n^2)``.
+
+Code Example:
+```
+const boxes = [1,2,3,4,5];
+
+const logAllPairsOfArray = (arr) => {
+  for(let i = 0; i < arr.length; i++){
+    for(let j = 0; j < arr.length; j++){ // nested for loop
+      console.log(arr[i]+ ' : '+ arr[j]);
+    }
+  }
+};
+
+logAllPairsOfArray(boxes);
+```
+#### ``0(a*b)`` 
+Where ``a`` and ``b`` represents two different inputs with different lengths but they are nested.
+
+Code Example:
+```
+const box_a = [1,2,3,4,5];
+const box_b = [2,3];
+
+function cimpressBoxesTwice(a, b){
+  a.forEach(function(boxes){
+    console.log(boxes);
+
+      b.forEach(function(boxes){
+      console.log(boxes);
+    });
+  });
+}
+cimpressBoxesTwice(box_a, box_b);
 ```
 **[Back to The TOP](#section-overview)**
 #

@@ -4,3 +4,4 @@
 
 ### Section overview
 * **[01 Getting More Interviews](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2301_Getting_More_Interviews.MD)**
+* **[02 The Big O](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2302_The_Big_O.MD)**
