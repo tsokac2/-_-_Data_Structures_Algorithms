@@ -205,7 +205,7 @@ Test case to break your code:
 
 Questions for the interviewer:
  - Can we assume always 2 parameters in functions - always 2 arrays?
- - You can suggest to the interviewer if this is real-world scenario that wrting additional Unit tests will test the function.
+ - You can suggest to the interviewer that if this is a real-world scenario, writing additional unit tests will help test the function.
 
 **NOTE:** Since this solution is writen in JavaScript - Object properties are turned into ``strings`` when created.
 
