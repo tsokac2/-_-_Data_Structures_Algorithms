@@ -5,7 +5,7 @@
 * **[What Are Companies Looking For?](#look-for)**
 * **[What We Need For Coding Interviews](#what-we-need-for-coding-interviews)**
 
-* **[Exercise: Coding Interview Question](#coding-q)**
+* **[Exercise: Coding Interview - Thought Steps](#coding-q)**
 
 * **[Section Summary](#section-summary)**
 
@@ -23,10 +23,16 @@
 **[Back to The TOP](#section-overview)**
 #
 
-### <a name="coding-q"> Exercise: Coding Interview Question</a>
+### <a name="coding-q"> Exercise: Coding Interview - Thought Steps</a>
 
 #### Challenge
 Given 2 arrays, create a function that let's a user know (true/false) whether these two arrays contain any common items
+
+#### Step By Step through a problem
+
+#### 1. When the interviewer says the question, write down the key points at the top (i.e. sorted array).
+    - Make sure you have all the details.
+    - Show how organized you are.
 
 For Example:
 - ``const array1 = ['a', 'b', 'c', 'x'];``
@@ -37,11 +43,11 @@ For Example:
 - ``const array1 = ['a', 'b', 'c', 'x'];``
 - ``const array2 = ['z', 'y', 'x'];``
 
-**Should return**: ``true`` - because ``x`` is present in ``array1`` and ``array2``.
+**Should return**: ``true`` - because item ``'x'`` is present in ``array1`` and ``array2``.
 
-#### Step By Step through a problem
-
-1. 
+#### 2. Make sure you double check:
+    - What are the inputs?
+    - What are the outputs?
 
 
 **[Back to The TOP](#section-overview)**
