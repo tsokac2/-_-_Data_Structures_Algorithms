@@ -25,8 +25,23 @@
 
 ### <a name="coding-q"> Exercise: Coding Interview Question</a>
 
-### Step By Step through a problem
+#### Challenge
+Given 2 arrays, create a function that let's a user know (true/false) whether these two arrays contain any common items
 
+For Example:
+- ``const array1 = ['a', 'b', 'c', 'x'];``
+- ``const array2 = ['z', 'y', 'i'];``
+
+**Should return**: ``false`` - because there is nothing common betwen these 2 arrays.
+
+- ``const array1 = ['a', 'b', 'c', 'x'];``
+- ``const array2 = ['z', 'y', 'x'];``
+
+**Should return**: ``true`` - because ``x`` is present in ``array1`` and ``array2``.
+
+#### Step By Step through a problem
+
+1. 
 
 
 **[Back to The TOP](#section-overview)**
