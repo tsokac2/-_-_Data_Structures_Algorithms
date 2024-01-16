@@ -1,11 +1,22 @@
 <h1 align="center">How To solve coding problems</h1>
 
 ### Section overview
+* **[Coding problems Cheat Sheet PDF]()**
 * **[What Are Companies Looking For?](#look-for)**
+* **[What We Need For Coding Interviews](#what-we-need-for-coding-interviews)**
 
 * **[Section Summary](#section-summary)**
 
 ### <a name="look-for">What Are Companies Looking For?</a>
+
+- **Analytic Skills**: How can you think through problems and analyze things?
+- **Coding Skills**: Do you code well, by writing clean, simple, organized, readable code?
+- **Technical knowledge**: Do you know the fundamentals of the job you're applying for?
+- **Communication skills**: Does your personality match the companies’ culture?
+
+### What We Need For Coding Interviews
+
+![RoadMap]()
 
 
 
