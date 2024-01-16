@@ -177,6 +177,7 @@ const containsCommonItem = (arr1, arr2) => {
 }
 console.log(containsCommonItem(array1, array2));
 ```
+Big O: ``O(a + b) - Time Complexity``
 
 #### 11. Think about error checks and how you can break this code.
 - Never make assumptions about the input.
@@ -212,8 +213,45 @@ Questions for the interviewer:
 #### 12. Don't use bad/confusing names like ``i`` and ``j``
 - Write code that reads well.
 
+Again, this is one of those things that you can talk to the interviewer about and let them know that you're thinking about these things.
+
+And that's very, very important.
+
+Again, as long as you're thinking about that and you're telling the interviewer that you're considering these things, you're getting full marks for it.
+
+#### 13. Test your code:
+- Check for no params, 0, undefined, null, massive arrays, async code, etc.
+- Ask the interviewer if we can make assumption about the code.
+- Can you make the answer return an error?
+- Poke holes into your solution
+- Are you repeating yourself?
 
 
+#### 14. Talk to the interviewer about where you would improve the code.
+- Does it work?
+- Are there different approaches?
+- Is it readable?
+- What would you Google to improve?
+- How can performance be improved?
+- Possibly:
+    - Ask the interviewer what was the most interesting solution they have seen to this problem.
+
+That means depending on how much you know about the language that you're working with, you might be able to use methods to simplify this process so you can tell the interviewer I would Google specific methods on let's say erase to see if I can just clean up the code and make it readable.
+
+In this case we can use JavaScript methods to simplify the process:
+
+```
+const containsCommonItem2 = (arr1, arr2) => {
+    return arr1.some(item => arr2.includes(item));
+};
+
+console.log(containsCommonItem2(array1, array2));
+```
+
+We can say that there's actually another solution using some of the built in methods that comes with JavaScript.
+That is, some would say, more readable, more concise.
+
+#### 15. 
 
 **[Back to The TOP](#section-overview)**
 #
