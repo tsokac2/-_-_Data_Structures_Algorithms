@@ -146,13 +146,73 @@ function containsCommonItem2(arr1, arr2) {
 - So never start a whiteboard interview not being sure of how things are going to work out.
 - That is a recipe for disaster.
 - Keep in mind:
-    - A lot of interviews ask questions that you wan't be able to fully answer on time.
+    - A lot of interviews ask questions that you won't be able to fully answer on time.
 - So think:
-    - What can I show in order to show that I can do this and I am better that other coders.
-- Break things up in Functions(if you can't remember a method, just make up a function and you will at least have it there.)
+    - What can I show to demonstrate that I can do this and am better than other coders?
+- Break things up into functions (if you can't remember a method, just make up a function, and you will at least have it there.)
 - Write something, and start with the easy part.
 
-#### 11. 
+**New code solution:**
+```
+const containsCommonItem = (arr1, arr2) => {
+
+// #1 - loop through first array and create object where properties === items in the array
+
+    let map = {};
+    for (let i = 0; i < arr1.length; i++){
+        if(!map[arr1[i]]){
+            const item = arr1[i];
+            map[item] = true;
+        }
+    }
+
+// #2 - loop through second array and check if item in second array exists on created object
+
+    for (let j = 0; j < arr2.length; j++){
+        if(map[arr2[j]]){
+            return true;
+        }
+    }
+    return false;
+}
+console.log(containsCommonItem(array1, array2));
+```
+
+#### 11. Think about error checks and how you can break this code.
+- Never make assumptions about the input.
+- Assume people are trying to break your code and that Darth Vader is using your function.
+- How will you safeguard it?
+- Always check for false inputs that you don't want.
+- Here is a trick:
+    - Comment in the code, the checks thay you want to do... write the function, then tell the interviewer that you would write tests now to make your functions fail (but you won't need to actually write the tests).
+
+Test case to break your code:
+
+##### CASE 1:
+- ``const array1 = [null, 'b', 'c', 'x'];``
+- ``const array2 = ['z', null, 'i'];`` 
+``// true``
+
+##### CASE 2:
+- ``const array1 = [[], 'b', 'c', 'x'];``
+- ``const array2 = ['z', 'y', 'i'];``
+``// false``
+
+##### CASE 3:
+- ``const array1 = [1, 'b', 'c', 'x'];``
+- ``const array2 = ['z', 'y', 1];``
+``// true``
+
+Questions for the interviewer:
+ - Can we assume always 2 parameters in functions - always 2 arrays?
+ - You can suggest to the interviewer if this is real-world scenario that wrting additional Unit tests will test the function.
+
+**NOTE:** Since this solution is writen in JavaScript - Object properties are turned into ``strings`` when created.
+
+#### 12. Don't use bad/confusing names like ``i`` and ``j``
+- Write code that reads well.
+
+
 
 
 **[Back to The TOP](#section-overview)**
