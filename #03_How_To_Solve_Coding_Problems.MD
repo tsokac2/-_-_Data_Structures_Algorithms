@@ -251,7 +251,14 @@ console.log(containsCommonItem2(array1, array2));
 We can say that there's actually another solution using some of the built in methods that comes with JavaScript.
 That is, some would say, more readable, more concise.
 
-#### 15. 
+#### 15.  If your interviewer is happy with the solution, the interview usually ends here.
+- It is also common that the interviewer asks you follow-up questions, such as how you would handle the problem if the whole input is too large to fit into memory, or if the input arrives as a stream.
+- This is a common follow-up question at Google, where they care a lot about scale.
+- The answer is usually a divide-and-conquer approach - perform distributed processing of the data and only read certain **chunks** of the input from disk into memory, write the output back to disk, and combine them later.
+
+
+
+
 
 **[Back to The TOP](#section-overview)**
 #
