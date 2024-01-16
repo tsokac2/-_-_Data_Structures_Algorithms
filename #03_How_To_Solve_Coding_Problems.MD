@@ -26,11 +26,11 @@
 ### <a name="coding-q"> Exercise: Coding Interview - Thought Steps</a>
 
 #### Challenge
-Given 2 arrays, create a function that let's a user know (true/false) whether these two arrays contain any common items
+Given 2 arrays, create a function that lets a user know (true/false) whether these two arrays contain any common items.
 
 #### Step By Step through a problem
 
-#### 1. When the interviewer says the question, write down the key points at the top (i.e. sorted array).
+#### 1. When the interviewer says the question, write down the key points at the top (i.e., sorted array).
     - Make sure you have all the details.
     - Show how organized you are.
 
@@ -38,16 +38,36 @@ For Example:
 - ``const array1 = ['a', 'b', 'c', 'x'];``
 - ``const array2 = ['z', 'y', 'i'];``
 
-**Should return**: ``false`` - because there is nothing common betwen these 2 arrays.
+**Should return**: ``false`` -  because there is nothing common between these 2 arrays.
 
 - ``const array1 = ['a', 'b', 'c', 'x'];``
 - ``const array2 = ['z', 'y', 'x'];``
 
-**Should return**: ``true`` - because item ``'x'`` is present in ``array1`` and ``array2``.
+**Should return**: ``true`` - because the item `'x'` is present in `array1` and `array2`.
 
-#### 2. Make sure you double check:
+#### 2. Make sure you double-check:
     - What are the inputs?
     - What are the outputs?
+
+In this case, we have:
+- 2 input parameters are always `arrays`.
+- As a result, we always want to return `true` or `false`.
+
+**NOTE**: This is a very important step; don't jump into the coding right away!
+
+#### 3. What is the most important value of the problem?
+- Do you have time, space, and memory, etc.?
+- What is the main goal?
+
+You can ask, "How large the array is going to be." If it's a constant array, we don't have to worry about Time Complexity, Space Complexity, and Big O.
+- Is Time Complexity more important?
+- Is Space Complexity more important?
+
+#### 4. 
+
+
+
+
 
 
 **[Back to The TOP](#section-overview)**
