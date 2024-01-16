@@ -1,7 +1,7 @@
 <h1 align="center">How To solve coding problems</h1>
 
 ### Section overview
-* **[Coding problems Cheat Sheet PDF]()**
+* **[Coding problems Cheat Sheet PDF](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/cheatsheet.pdf)**
 * **[What Are Companies Looking For?](#look-for)**
 * **[What We Need For Coding Interviews](#what-we-need-for-coding-interviews)**
 
@@ -16,7 +16,7 @@
 
 ### What We Need For Coding Interviews
 
-![RoadMap]()
+![RoadMap](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/02.JPG)
 
 
 
