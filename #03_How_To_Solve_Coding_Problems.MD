@@ -140,6 +140,12 @@ function containsCommonItem2(arr1, arr2) {
 #### 9. Modularize your code from the very beginning.
 - Break up your code into beautiful small pieces and add just comments if you need to.
 
+Write a small comments that reads like human readble coode
+
+If a function is doing too many things, that's **not** ideal.
+
+When we say modular, we want to build small pieces of the code that do one thing and one thing really well.
+
 
 #### 10. Start actually writing your code now
 - Keep in mind that the more you prepare and understand what you need to code, the better the whiteboard will go.
@@ -256,7 +262,9 @@ That is, some would say, more readable, more concise.
 - This is a common follow-up question at Google, where they care a lot about scale.
 - The answer is usually a divide-and-conquer approach - perform distributed processing of the data and only read certain **chunks** of the input from disk into memory, write the output back to disk, and combine them later.
 
-
+ - First "easy" solution - ``O(a * b) Higher Time Complexity Lower 0(1) Space Complexity``
+ - Second and final solution - ``O(a+b) Lower Time Complexity -  0(a) Higher Space Complexity``
+    - Well, this solution, although faster in terms of time complexity, is more heavy in terms of space complexity.
 
 
 
