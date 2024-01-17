@@ -1,7 +1,7 @@
 <h1 align="center">Coding Challenges</h1>
 
 ### Section overview
-* **[Create Rectangles](create-rectangles)**
+* **[Create Rectangles](#create-rectangles)**
 
 ### Create Rectangles
 
