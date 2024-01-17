@@ -8,6 +8,8 @@
 
 * **[Code Data Structures + Algorithms](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo)**
 
+* **[Coding Challenges](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/Coding_Challenges.MD)**
+
 
 ![Img_01](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/01.png)
 
