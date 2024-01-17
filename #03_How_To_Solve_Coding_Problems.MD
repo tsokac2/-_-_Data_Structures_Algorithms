@@ -19,6 +19,10 @@
 ![RoadMap](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/02.JPG)
 
 
+### Exercise: Interview Question
+
+5. Naive/brute - easy and naive solution
+
 
 **[Back to The TOP](#section-overview)**
 #
@@ -68,3 +72,4 @@ Remember, problem-solving is a skill that develops over time with practice and e
 
 **[Back to The TOP](#section-overview)**
 #
+
