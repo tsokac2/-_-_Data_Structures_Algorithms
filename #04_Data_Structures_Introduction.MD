@@ -3,8 +3,7 @@
 ### Section overview
 * **[What Is A Data Structure?](#data-structure)**
 * **[How Computers Store Data](#how-computers-store-data)**
-
-Data Structures In Different Languages
+* **[Operations On Data Structures](#operations-on-data-structures)**
 
 ### <a name="data-structure">What Is A Data Structure?</a>
 A data structure is a collection of values. The values can have relationships among them, and they can have functions apply to them.
