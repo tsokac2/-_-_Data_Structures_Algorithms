@@ -47,6 +47,50 @@ You can define the way you interact with this data and how it is arranged in RAM
 - Graphs
 - Hash Tables
 
-![Data Structures Language Support]()
+![Data Structures Language Support](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/03.JPG)
 
 ### Operations On Data Structures
+
+![Operations On Data Structures]()
+
+#### Arrays:
+- **Access**: Retrieve the value at a specific index.
+- **Insertion**: Add a new element at a given position or at the end.
+- **Deletion**: Remove an element from a specific position or based on its value.
+- **Search**: Find the index or presence of a specific element.
+
+#### Linked Lists:
+- **Insertion**: Add a new node at the beginning, end, or a specific position.
+- **Deletion**: Remove a node from the beginning, end, or a specific position.
+- **Traversal**: Visit each node in sequence.
+- **Search**: Find a node with a specific value.
+
+#### Stacks:
+
+- **Push**: Add an element to the top of the stack.
+- **Pop**: Remove the element from the top of the stack.
+- **Peek**: View the element at the top without removing it.
+- **isEmpty**: Check if the stack is empty.
+
+#### Queues:
+- **Enqueue**: Add an element to the rear/end of the queue.
+- **Dequeue**: Remove the element from the front.
+- **Front/Rear**: Get the element at the front or rear without removing it.
+- **isEmpty**: Check if the queue is empty.
+
+#### Trees:
+
+- **Insertion**: Add a new node.
+- **Deletion**: Remove a node.
+- **Traversal**: Visit nodes in a specific order (in-order, pre-order, post-order).
+- **Search**: Find a node with a specific value.
+
+#### Graphs:
+
+- **Add Vertex/Edge**: Include a new node or connection between nodes.
+- **Remove Vertex/Edge**: Delete a node or connection.
+- **Traversal**: Visit nodes based on certain algorithms (DFS, BFS).
+- **Search**: Find a node or path between nodes.
+
+**[Back to The TOP](#section-overview)**
+#
