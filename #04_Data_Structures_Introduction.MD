@@ -140,4 +140,3 @@ myHashTable["key1"] = "value1";
 - **Search**: Find a node or path between nodes.
 
 **[Back to The TOP](#section-overview)**
-#
