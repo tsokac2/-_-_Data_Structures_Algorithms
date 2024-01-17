@@ -38,20 +38,68 @@ You can define the way you interact with this data and how it is arranged in RAM
 
 ### Data Structures In Different Languages
 
-- Arrays
-- Stacks
-- Queues
-- Linked Lists
-- Trees
-- Tries
-- Graphs
-- Hash Tables
+#### Arrays
+An array is a collection of elements, each identified by an index or a key.
+```
+// Declaration of an array
+let myArray = [1, 2, 3, 4, 5];
 
+// Accessing elements
+console.log(myArray[2]);  // Output: 3
+
+// Modifying an element
+myArray[1] = 10;
+```
+#### Stacks
+A stack is a Last In, First Out (LIFO) data structure where elements are added and removed from the same end.
+```
+// Using an array as a stack
+let myStack = [3, 4, 5];
+
+// Pushing an element onto the stack
+myStack.push(6);
+
+// Popping the last element
+let poppedElement = myStack.pop();
+```
+
+#### Queues
+A queue is a First In, First Out (FIFO) data structure where elements are added at the rear and removed from the front.
+```
+// Using an array as a queue
+let myQueue = [1, 2, 3];
+
+// Enqueue an element
+myQueue.push(4);
+
+// Dequeue the front element
+let dequeuedElement = myQueue.shift();
+```
+#### Linked Lists
+A linked list is a collection of nodes where each node points to the next node in the sequence.
+#### Trees
+A tree is a hierarchical data structure with a root element and subtrees of child elements.
+
+#### Tries
+A trie is a tree-like data structure used for storing an associative array where keys are sequences.
+
+#### Graphs
+A graph is a collection of nodes (vertices) and edges connecting these nodes.
+
+#### Hash Tables
+A hash table is a data structure that implements an associative array abstract data type.
+```
+// Using an object as a hash table
+let myHashTable = {};
+myHashTable["key1"] = "value1";
+```
 ![Data Structures Language Support](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/03.JPG)
 
-### Operations On Data Structures
+**[Back to The TOP](#section-overview)**
+#
 
-![Operations On Data Structures]()
+### Operations On Data Structures
+![Operations On Data Structures](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/04.JPG)
 
 #### Arrays:
 - **Access**: Retrieve the value at a specific index.
