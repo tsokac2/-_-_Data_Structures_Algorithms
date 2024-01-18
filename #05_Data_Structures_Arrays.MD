@@ -64,12 +64,12 @@ Symbol**: Introduced in ECMAScript 6, symbols are unique and immutable primitive
 - **Date**: Represents dates and times.
 - **RegExp**: Represents regular expressions for pattern matching.
 
-
-
 Three things that are importnat with objects:
 
-//reference type
+#### Reference Type (Object):
+Objects are instances of reference types in JavaScript. They are complex data types that can hold key-value pairs and methods, making them versatile for representing real-world entities.
 
+```
 [] === []; //false
 [1] === [1] //false
 
@@ -79,14 +79,58 @@ var object3 = {value:10};
 
 object1 === object2 //true
 object1 === object3 //false
+```
 
+#### Scope
+Scope refers to the visibility and accessibility of variables in different parts of your code.
 
+**Global Scope**: Variables declared outside any function or block have a global scope. They can be accessed from any part of the code.
+```
+let globalVar = "I am global";
 
+function exampleFunction() {
+  console.log(globalVar); // Accessible
+}
+```
 
-//context
-//instantiation
+**Local Scope**: Variables declared within a function have a local scope. They are only accessible within that function.
+```
+function exampleFunction() {
+  let localVar = "I am local";
+  console.log(localVar); // Accessible
+}
 
+console.log(localVar); // Not accessible
+```
+#### Context
+Context tells you where we are within the object.
 
+Context refers to the value of the ``this`` keyword within a particular execution context.
+
+``this`` - What is the object environment that we're in right now?
+
+**Global Context**: When this is used outside of any function or object, it refers to the global object (e.g., window in browsers).
+```
+console.log(this); // Points to the global object (e.g., window)
+```
+However, if the function is part of an object, this refers to that object.
+
+```
+let obj = {
+  prop: "I am an object property",
+  logProp: function() {
+    console.log(this.prop);
+  }
+};
+
+obj.logProp(); // Points to the 'obj' object
+```
+
+#### Instantiation
+
+Instantiation is when you make a copy of an object and reuse the code. You're making instances or multiple copies of an object.
+
+Now think of a ``class`` as something that I want to make a copy of.
 
 ![Objects](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/06.png)
 
