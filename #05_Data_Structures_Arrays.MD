@@ -64,6 +64,8 @@ Symbol**: Introduced in ECMAScript 6, symbols are unique and immutable primitive
 - **Date**: Represents dates and times.
 - **RegExp**: Represents regular expressions for pattern matching.
 
+![Objects](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/06.png)
+
 Three things that are importnat with objects:
 
 #### Reference Type (Object):
@@ -132,7 +134,7 @@ Instantiation is when you make a copy of an object and reuse the code. You're ma
 
 Now think of a ``class`` as something that I want to make a copy of.
 
-![Objects](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/06.png)
+
 
 **[Back to The TOP](#section-overview)**
 #
