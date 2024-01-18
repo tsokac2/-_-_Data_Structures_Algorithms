@@ -65,7 +65,7 @@ object1 === object3 //false
 //context
 //instantiation
 
-![Objects]()
+![Objects](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/06.png)
 
 **[Back to The TOP](#section-overview)**
 #
