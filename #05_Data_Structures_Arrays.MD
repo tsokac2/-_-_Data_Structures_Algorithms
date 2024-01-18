@@ -45,6 +45,27 @@ strings.splice(2, 0, "alien"); //O(n)
 
 ### <a name="classes-in-js">Optional: Classes In Javascript</a>
 
+In JavaScript, data types can be broadly categorized into two main groups: **primitive** and **non-primitive (or reference)** types.
+
+#### Primitive Data Types:
+
+- **String**: Used to represent textual data. Enclosed in single or double quotes.
+- **Number**: Represents numeric values, both integers and floating-point numbers.
+- **Boolean**: Represents true or false values.
+- **Undefined**: Represents a variable that has been declared but not assigned a value.
+- **Null**: Represents the intentional absence of any object value.
+Symbol**: Introduced in ECMAScript 6, symbols are unique and immutable primitive values.
+
+#### Non-Primitive (Reference) Data Types:
+
+- **Object**: A complex data type that can hold key-value pairs and methods. Objects are used to represent real-world entities.
+- **Array**: An ordered collection of values, where each value can be of any data type.
+- **Function**: A reusable block of code that can be invoked by its name. Functions are a subtype of objects.
+- **Date**: Represents dates and times.
+- **RegExp**: Represents regular expressions for pattern matching.
+
+
+
 Three things that are importnat with objects:
 
 //reference type
@@ -64,6 +85,8 @@ object1 === object3 //false
 
 //context
 //instantiation
+
+
 
 ![Objects](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/06.png)
 
