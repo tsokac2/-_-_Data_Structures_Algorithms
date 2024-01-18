@@ -134,7 +134,31 @@ Instantiation is when you make a copy of an object and reuse the code. You're ma
 
 Now think of a ``class`` as something that I want to make a copy of.
 
+```
+class Player {
+    constructor(name, type){
+        this.name = name;
+        this.type = type;
+    }
 
+    introduce() {
+        console.log(`Hi I am ${this.name}, I'm a ${this.type}`)
+    }
+}
+
+class Wizard extends Player {
+    constructor(name, type) {
+        super(name, type)
+    }
+
+    play() {
+        console.log(`WEEEEEE I'm A ${this.type}`);
+    }
+}
+
+const wizard1 = new Wizard("Shelly", "Healer");
+const wizard2 = new Wizard("Shawn", "Dark Magic");
+```
 
 **[Back to The TOP](#section-overview)**
 #
