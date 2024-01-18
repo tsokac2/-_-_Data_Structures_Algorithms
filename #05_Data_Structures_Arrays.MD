@@ -4,6 +4,8 @@
 * **[Arrays Introduction](#data-structure)**
 * **[Static vs Dynamic Arrays](#static-vs-dynamic-arrays)**
 * **[Optional: Classes In Javascript](#classes-in-js)**
+* **[Implementing An Array](#implementing-an-array)**
+
 
 
 ### Arrays Introduction
@@ -129,7 +131,6 @@ obj.logProp(); // Points to the 'obj' object
 ```
 
 #### Instantiation
-
 Instantiation is when you make a copy of an object and reuse the code. You're making instances or multiple copies of an object.
 
 Now think of a ``class`` as something that I want to make a copy of.
@@ -152,13 +153,20 @@ class Wizard extends Player {
     }
 
     play() {
-        console.log(`WEEEEEE I'm A ${this.type}`);
+        console.log(`WEEEEEE I'm a ${this.type}`);
     }
 }
 
 const wizard1 = new Wizard("Shelly", "Healer");
 const wizard2 = new Wizard("Shawn", "Dark Magic");
 ```
+
+**[Back to The TOP](#section-overview)**
+#
+
+### Implementing An Array
+
+
 
 **[Back to The TOP](#section-overview)**
 #
