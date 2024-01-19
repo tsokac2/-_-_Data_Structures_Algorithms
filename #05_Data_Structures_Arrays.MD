@@ -5,8 +5,8 @@
 * **[Static vs Dynamic Arrays](#static-vs-dynamic-arrays)**
 * **[Optional: Classes In Javascript](#classes-in-js)**
 * **[Implementing An Array](#implementing-an-array)**
-
-
+* **[Strings and Arrays](#strings-and-arrays)**
+* **[Exercise: Reverse A String](#e-reverse-string)**
 
 ### Arrays Introduction
 Arrays which are sometimes called lists. Organizes items sequentially.
@@ -230,6 +230,35 @@ Do some sort of a loop on it or an operation using something like a ``split meth
 
 ![Strings and Arrays](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/07.JPG)
 
+**[Back to The TOP](#section-overview)**
+#
+
+### <a name="e-reverse-string">Exercise: Reverse A String</a>
+
+Create a function that reverses a string: ``"Hi My Name is Tomislav"``, should be: ``"valsimoT si emaN yM iH"``.
+
+**Solution:**
+
+```
+const reverse = str => {
+//check if input is a string
+    if(!str || str.length < 2 || typeof str !== 'string'){
+        return 'Input is not a string';
+    }
+
+const backwards = [];
+const totalItems = str.length - 1;
+
+for (let i = totalItems)
+
+
+return backwards.join('');
+}
+
+
+
+
+```
 
 **[Back to The TOP](#section-overview)**
 #
