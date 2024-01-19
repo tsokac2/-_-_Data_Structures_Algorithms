@@ -304,7 +304,6 @@ In React a pure component is one which...
 - [ ] does not include other componets
 - [ ] does not have state
 
-
 #### Question 9:
 What are some truths about React Hooks?
 
@@ -316,6 +315,67 @@ What are some truths about React Hooks?
 - [x] If you only pass one parameter to useEffect, the effect will only run once
 
 #### Question 10:
+
+In React, how would you make sure that some calculated value is not recalculated every time component is rerendered?
+
+**Answer**:
+- [x] ``const myVar = React.useMemo(() => {return calculations();}, []);``
+- [ ] ``let myVar = null; React.useEffect(() => { myVar = calculations();});``
+- [ ] ``let myVar = null; React.useEffect(() => { myVar = calculations();},[])``
+- [ ] ``let myVar = null; React.useMemo(() => {myVar = calculations();}, []);``
+
+**Explanation**:
+
+Using useMemo with a dependency array allows you to specify dependencies that, when changed, will trigger the recalculation of the memoized value. 
+
+#### Question 11:
+Write a function for adding 2 numbers that are passed in one by one.
+
+**Answer**:
+```
+function sum(a) {
+    // The inner function takes another number and returns the sum
+    return function(b) {
+        return a + b;
+    };
+}
+
+// Example usage:
+let result = sum(10)(20);
+console.log(result);  // Output: 30
+```
+#### Question 12:
+Write a recursive function for summing the yielded values of the following generator:
+```
+function * gen() {
+    for (let i = 0; i < 5; i++) yield i;
+}
+const myGen  = gen()
+```
+**Answer**:
+```
+function * gen() {
+    for (let i = 0; i < 5; i++) yield i;
+}
+
+const myGen = gen();
+
+function sumGeneratorValues(generator) {
+    const { value, done } = generator.next();
+
+    if (done) {
+        return 0; // Base case: end of the generator
+    } else {
+        return value + sumGeneratorValues(generator); // Recursive case: accumulate the value and call the function again
+    }
+}
+
+const result = sumGeneratorValues(myGen);
+console.log(result); // Output: 10 (0 + 1 + 2 + 3 + 4)
+```
+**Explanation**:
+
+This recursive function, ``sumGeneratorValues``, continues calling itself until it reaches the end of the generator (done is true). It adds up the values during each iteration, resulting in the sum of all yielded values.
 
 **[Back to The TOP](#section-overview)**
 
