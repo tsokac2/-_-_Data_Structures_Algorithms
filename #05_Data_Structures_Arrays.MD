@@ -341,3 +341,9 @@ function mergeSortedArrays(array1, array2){
 mergeSortedArrays([0,3,4,31], [3,4,6,30]);
 ```
 **[Back to The TOP](#section-overview)**
+
+### <a name="pros-cons">Arrays: Pros & Cons</a>
+
+![Array-Pros-Cons]()
+
+**[Back to The TOP](#section-overview)**
