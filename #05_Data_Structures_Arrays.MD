@@ -5,7 +5,7 @@
 * **[Static vs Dynamic Arrays](#static-vs-dynamic-arrays)**
 * **[Optional: Classes In Javascript](#classes-in-js)**
 * **[Implementing An Array](#implementing-an-array)**
-
+* **[Exercise: Reverse A String](#e-reverse-string)**
 
 
 ### Arrays Introduction
@@ -230,6 +230,76 @@ Do some sort of a loop on it or an operation using something like a ``split meth
 
 ![Strings and Arrays](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/07.JPG)
 
+**[Back to The TOP](#section-overview)**
+#
+
+### <a name="e-reverse-string">Exercise: Reverse A String</a>
+Create a function that reverses a string: ``"Hi My Name is Tomislav"``, should be ``""valsimoT si emaN yM iH""``
+
+**Solutions':**
+
+1. Solution:
+
+```
+const string = "Hi My Name is Tomislav";
+
+const reverse1 = str => {
+  if(!str || str.length < 2 || typeof str !== "string"){
+    return "Invalid input";
+  }
+
+  let backwards = []
+  let totalItems = str.length - 1;  // The total number of characters in the input string minus one (to get the last index).
+  for(let i = totalItems; i >= 0; i--){
+    backwards.push(str[i]);
+  }
+  return backwards.join('');
+
+};
+
+console.log(reverse1(string));
+
+// "valsimoT si emaN yM iH"
+```
+
+2. Solution:
+
+```
+const string = "Hi My Name is Tomislav";
+
+const reverse2 = str => {
+  if(!str || str.length < 2 || typeof str !== "string"){
+    return "Invalid input!";
+  }
+  
+  return str.split('').reverse().join('');
+};
+
+//"valsimoT si emaN yM iH"
+```
+
+3. Solution:
+```
+const string = "Hi My Name is Tomislav";
+
+const reverse3 = str => str.split('').reverse().join('');
+
+console.log(reverse3(string));
+
+//"valsimoT si emaN yM iH"
+```
+
+4. Solution:
+```
+const string = "Hi My Name is Tomislav";
+
+const reverse4 = str => [...str].reverse().join('');
+
+console.log(reverse4(string));
+
+//"valsimoT si emaN yM iH"
+```
 
 **[Back to The TOP](#section-overview)**
 #
+
