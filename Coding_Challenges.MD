@@ -231,6 +231,91 @@ Now, let's summarize the order of execution and console output:
 Therefore, you see ``'foo'`` and ``'bar'`` in the console output, and this is due to the combination of the IIFE and the hoisting behavior of function declarations in JavaScript.
 
 #### Question 6:
+Which of these methods mutate an array in place?
+
+**Answer**:
+- [x] push
+- [x] pop
+- [ ] map
+- [x] sort
+- [ ] reduce
+
+**Explanation**:
+
+- ``push``: This method does mutate the array by adding elements to its end, thus changing its length. So, [x] push is correct.
+
+- ``pop``: This method also mutates the array by removing the last element, reducing its length. Therefore, [x] pop is correct.
+
+- ``map``: Contrary to the other two, map **does not mutate** the original array. Instead, it creates a new array with the results of calling a provided function on every element. So, [ ] map is not correct in the context of in-place mutation.
+
+- ``sort``: The sort method, as mentioned earlier, mutates the array by rearranging its elements. Thus, [x] sort is correct.
+
+- ``reduce``: Similar to map, the reduce method does not mutate the original array. It reduces the array to a single value based on the provided callback function. Therefore, [ ] reduce is not correct concerning in-place mutation.
+
+#### Question 7:
+What will the console output be?
+
+```
+function promise() {
+    return Promise.reject();
+};
+
+promise()
+    .then(function () {
+        console.log('Then 1');
+    })
+
+    .catch(function () {
+        console.log('Catch 1')
+    })
+
+    .then(function () {
+        console.log('Then 2')
+    })
+
+    .catch(function () {
+        console.log('Catch 2)
+    })
+
+    .then(function () {
+        console.log('Then 3')
+    })
+```
+**Answer**:
+- [ ] Then 1, Catch 1, Then 2, Catch 2, Then 3
+- [ ] Then 1, Catch 1
+
+**Explanation**:
+- The ``promise()`` function returns a Promise that is rejected.
+- The ``.then()`` block following the ``promise()`` is skipped because the promise is rejected. Instead, the control goes to the first ``.catch()`` block.
+- The first ``.catch()`` block logs ``'Catch 1'`` to the console.
+- The control then goes to the next ``.then()`` block, and it logs ``'Then 2'``.
+- Since there's no rejection in the previous step, the following ``.catch()`` block is skipped.
+- The last ``.then()`` block logs ``'Then 3'``.
+
+#### Question 8:
+In React a pure component is one which...
+
+**Answer**:
+
+- [ ] does not include mixins
+- [ ] is a functional component which is also a pure function
+- [x] only does a shallow comparison of its props and state
+- [ ] does not include other componets
+- [ ] does not have state
+
+
+#### Question 9:
+What are some truths about React Hooks?
+
+**Answer**:
+- [x]  useEffect combines multiple lifecycle methods into one
+- [ ] They work great on class components
+- [x] They enable function components to use state
+- [ ] Hooks don't work with static typing
+- [x] If you only pass one parameter to useEffect, the effect will only run once
+
+#### Question 10:
 
 **[Back to The TOP](#section-overview)**
 
