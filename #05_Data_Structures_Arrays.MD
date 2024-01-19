@@ -5,8 +5,8 @@
 * **[Static vs Dynamic Arrays](#static-vs-dynamic-arrays)**
 * **[Optional: Classes In Javascript](#classes-in-js)**
 * **[Implementing An Array](#implementing-an-array)**
-* **[Strings and Arrays](#strings-and-arrays)**
-* **[Exercise: Reverse A String](#e-reverse-string)**
+
+
 
 ### Arrays Introduction
 Arrays which are sometimes called lists. Organizes items sequentially.
@@ -230,35 +230,52 @@ Do some sort of a loop on it or an operation using something like a ``split meth
 
 ![Strings and Arrays](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/07.JPG)
 
+
 **[Back to The TOP](#section-overview)**
 #
 
-### <a name="e-reverse-string">Exercise: Reverse A String</a>
+### <a name="merge-arrays">Exercise: Merge Sorted Arrays </a>
 
-Create a function that reverses a string: ``"Hi My Name is Tomislav"``, should be: ``"valsimoT si emaN yM iH"``.
+Given two arrays that are sorted. Merge these two arrays into one array that's is sorted.
 
-**Solution:**
-
+**Solution**
 ```
-const reverse = str => {
-//check if input is a string
-    if(!str || str.length < 2 || typeof str !== 'string'){
-        return 'Input is not a string';
-    }
+function mergeSortedArrays(array1, array2){
+  const mergedArray = [];
+  let array1Item = array1[0];
+  let array2Item = array2[0];
+  let i = 1;
+  let j = 1;
+  
+  //We should actually move these 2 if statements to line 2 so that we do the checks before we do assignments in line 3 and 4!
+  if(array1.length === 0) {
+    return array2;
+  }
+  if(array2.length === 0) {
+    return array1;
+  }
 
-const backwards = [];
-const totalItems = str.length - 1;
-
-for (let i = totalItems)
-
-
-return backwards.join('');
+  while (array1Item || array2Item){
+   if(array2Item === undefined || array1Item < array2Item){
+     mergedArray.push(array1Item);
+     array1Item = array1[i];
+     i++;
+   }   
+   else {
+     mergedArray.push(array2Item);
+     array2Item = array2[j];
+     j++;
+   }
+  }
+  return mergedArray;
 }
 
-
-
-
+mergeSortedArrays([0,3,4,31], [3,4,6,30]);
 ```
+**[Back to The TOP](#section-overview)**
+
+### <a name="pros-cons">Arrays: Pros & Cons</a>
+
+![Array-Pros-Cons](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/08.png)
 
 **[Back to The TOP](#section-overview)**
-#
