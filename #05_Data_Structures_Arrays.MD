@@ -165,7 +165,68 @@ const wizard2 = new Wizard("Shawn", "Dark Magic");
 #
 
 ### Implementing An Array
+Arrays in JavaScript are just objects with integer based keys that act like indexes.
 
+#### How to build one with ``class`` in JavaScript and how to use it
+
+```
+class MyArray {
+    constructor(){
+        this.length = 0;
+        this.data = {}
+    }
+
+    get(index) {
+        return this.data[index]
+    }
+
+    push(item) {
+        this.data[this.length] = item;
+        this.length++
+        return this.length;
+    }
+
+    pop(){
+        const lastItem = this.data[this.length-1];
+        delete this.data[this.length-1];
+        this.length--;
+        return lastItem;
+    }
+
+    delete(index) {
+        const item = this.data[index];
+        this.shiftItems(index);
+        return lastItem;
+    }
+
+    shiftItems(index) {
+        for(let i = index; i < this.length - 1; i++){
+            this.data[i] = this.data[i+1];
+        }
+        delete this.data[this.length-1];
+        this.length--;
+    }
+}
+
+const newArray = new MyArray();
+newArray.push('hi');
+newArray.puhs('you');
+newArray.puhs('!');
+newArray.pop();
+newArray.delete(0);
+newArray.push('are');
+newArray.push('nice');
+newArray.delete(1);
+console.log(newArray.get(0));
+```
+
+**[Back to The TOP](#section-overview)**
+#
+
+### Strings and Arrays
+Common interview trick is where you're manipulating strings.
+
+![Strings and Arrays]()
 
 
 **[Back to The TOP](#section-overview)**
