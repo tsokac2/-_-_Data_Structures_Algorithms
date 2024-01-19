@@ -7,6 +7,7 @@
 * **[Implementing An Array](#implementing-an-array)**
 * **[Exercise: Reverse A String](#e-reverse-string)**
 * **[Exercise: Merge Sorted Arrays](#merge-arrays)**
+* **[Arrays: Pros & Cons](#pros-cons)**
 
 ### Arrays Introduction
 Arrays which are sometimes called lists. Organizes items sequentially.
@@ -344,6 +345,6 @@ mergeSortedArrays([0,3,4,31], [3,4,6,30]);
 
 ### <a name="pros-cons">Arrays: Pros & Cons</a>
 
-![Array-Pros-Cons]()
+![Array-Pros-Cons](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/08.png)
 
 **[Back to The TOP](#section-overview)**
