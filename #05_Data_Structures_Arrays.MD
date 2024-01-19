@@ -226,7 +226,9 @@ console.log(newArray.get(0));
 ### Strings and Arrays
 Common interview trick is where you're manipulating strings.
 
-![Strings and Arrays]()
+Do some sort of a loop on it or an operation using something like a ``split method`` in JavaScript and then returning it as a string after you've finished the operations with them.
+
+![Strings and Arrays](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/07.JPG)
 
 
 **[Back to The TOP](#section-overview)**
