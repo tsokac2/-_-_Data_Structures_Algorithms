@@ -30,4 +30,17 @@ Hash functions are used in a variety of applications, including:
 #
 **[Back to The TOP](#section-overview)**
 
+### Hash Collisions
 
+![Hash Tables](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/10.JPG)
+
+```
+let user = {
+    age: 54,
+    name: 
+}
+```
+
+#### Collisions in the memory
+
+![Hash Tables](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/11.JPG)
