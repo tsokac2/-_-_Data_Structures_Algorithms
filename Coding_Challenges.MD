@@ -87,6 +87,41 @@ You can return the answer in any order.
 
 
 
+
+
+**[Case Link](https://leetcode.com/problems/maximum-subarray/description/)**
+
+**[Back to The TOP](#section-overview)**
+
+#### Move Zeroes
+
+
+
+
+
+**[Case Link](https://leetcode.com/problems/move-zeroes/description/)**
+
+**[Back to The TOP](#section-overview)**
+
+
+#### Contains Duplicate
+
+
+
+
+
+**[Case Link](https://leetcode.com/problems/contains-duplicate/description/)**
+
+**[Back to The TOP](#section-overview)**
+
+
+#### Rotate Array
+
+
+
+
+
+**[Case Link](https://leetcode.com/problems/rotate-array/description/)**
 #
 **[Back to The TOP](#section-overview)**
 
