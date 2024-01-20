@@ -228,6 +228,6 @@ It's essential to consider the trade-offs and choose the data structure that ali
 
 ### Hash Tables Review
 
-![Hash Tables Review]()
+![Hash Tables Review](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/13.JPG)
 
 **[Back to The TOP](#section-overview)**
