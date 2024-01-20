@@ -85,41 +85,83 @@ You can return the answer in any order.
 
 #### Maximum Subarray
 
+Given an integer array nums, find the subarray with the largest sum, and return its sum.
+A subarray is a contiguous non-empty sequence of elements within an array.
 
+**Example 1**:
+- **Input**: ``nums = [-2,1,-3,4,-1,2,1,-5,4]``
+- **Output**: ``6``
+- **Explanation**: ``The subarray [4,-1,2,1] has the largest sum 6``
 
+**Example 2**:
+- **Input**: ``nums = [1]``
+- **Output**: ``1``
+- **Explanation**: ``The subarray [1] has the largest sum 1``
 
+**Example 3**:
+- **Input**: ``nums = [5,4,-1,7,8]``
+- **Output**: ``23``
+- **Explanation**: ``The subarray [5,4,-1,7,8] has the largest sum 23``
 
 **[Case Link](https://leetcode.com/problems/maximum-subarray/description/)**
 
 **[Back to The TOP](#section-overview)**
 
 #### Move Zeroes
+Given an integer array ``nums``, move all ``0``'s to the end of it while maintaining the relative order of the non-zero elements.
 
+**Note** that you must do this in-place without making a copy of the array.
 
+**Example 1**:
+- **Input**: ``nums = [0,1,0,3,12]``
+- **Output**: ``[1,3,12,0,0]``
 
-
+**Example 2**:
+- **Input**: ``nums = [0]``
+- **Output**: ``[0]``
 
 **[Case Link](https://leetcode.com/problems/move-zeroes/description/)**
 
 **[Back to The TOP](#section-overview)**
 
-
 #### Contains Duplicate
+Given an integer array ``nums``, return ``true`` if any value appears **at least twice** in the array, and return false if every element is distinct
 
+**Example 1**:
+- **Input**: ``nums = [1,2,3,1]``
+- **Output**: ``true``
 
+**Example 2**: 
+- **Input**: ``nums = [1,2,3,4]``
+- **Output**: ``false``
 
-
+**Example 3**:
+- **Input**: ``nums = [1,1,1,3,3,4,3,2,4,2]``
+- **Output**: ``true``
 
 **[Case Link](https://leetcode.com/problems/contains-duplicate/description/)**
 
 **[Back to The TOP](#section-overview)**
 
-
 #### Rotate Array
+Given an integer array ``nums``, rotate the array to the right by ``k`` steps, where ``k`` is non-negative.
 
+**Example 1**:
+- **Input**: ``nums = [1,2,3,4,5,6,7], k = 3``
+- **Output**: ``[5,6,7,1,2,3,4]``
 
+**Explanation**:
+- rotate 1 steps to the right: ``[7,1,2,3,4,5,6]``
+- rotate 2 steps to the right: ``[6,7,1,2,3,4,5]``
+- rotate 3 steps to the right: ``[5,6,7,1,2,3,4]``
 
+**Example 2**:
+- **Input**: ``nums = [-1,-100,3,99], k = 2``
+- **Output**: ``[3,99,-1,-100]``
 
+**Explanation**: 
+- rotate 1 steps to the right: ``[99,-1,-100,3]``
+- rotate 2 steps to the right: ``[3,99,-1,-100]``
 
 **[Case Link](https://leetcode.com/problems/rotate-array/description/)**
 #
