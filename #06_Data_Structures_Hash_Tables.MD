@@ -5,7 +5,7 @@
 * **[Hash Function](#hash-function)**
 * **[Map() & Set() in JavaScript](#map-set)**
 * **[Exercise: Implement A Hash Table](#e-hash-table)**
-
+* **[Hash Tables VS Arrays](#hash-arrays)**
 
 ### Arrays Introduction
 - In ``JavaScript``, hash tables are commonly referred to as ``"objects"`` or "associative arrays."
@@ -130,7 +130,91 @@ myHashTable.get('apples')
 
 **Solution**:
 
+```
+class HashTable {
+  constructor(size){
+    this.data = new Array(size);
+    // this.data = [];
+  }
 
+  _hash(key) { //common standard - can't be access from outside(it can, but is a developer standard)
+    let hash = 0;
+    for (let i =0; i < key.length; i++){
+        hash = (hash + key.charCodeAt(i) * i) % this.data.length
+    }
+    return hash;
+  }
+
+  set(key, value) {
+    let address = this._hash(key);
+    if (!this.data[address]) {
+      this.data[address] = [];
+    }
+    this.data[address].push([key, value]);
+    return this.data;
+  } //O(1)
+
+  get(key){
+    const address = this._hash(key);
+    const currentBucket = this.data[address]
+    if (currentBucket) {
+      for(let i = 0; i < currentBucket.length; i++){
+        if(currentBucket[i][0] === key) {
+          return currentBucket[i][1]
+        }
+      }
+    } //O(1)
+    return undefined;
+  }
+
+  keys() {
+    const keysArray = [];
+    for (let i = 0; i < this.data.length; i++){
+        if(this.data[i]) {
+            keysArray.push(this.data[i][0][0])
+        }
+    }
+    return keysArray;
+  }
+}
+
+const myHashTable = new HashTable(50);
+myHashTable.set('grapes', 10000)
+myHashTable.get('grapes')
+myHashTable.set('apples', 9)
+myHashTable.get('apples')
+```
+
+####  Enhance the previous ``keys()`` method to also include hash collision prevention. 
+```
+ keys() {
+    if (!this.data.length) {
+      return undefined
+    }
+    let result = []
+    // loop through all the elements
+    for (let i = 0; i < this.data.length; i++) {
+        // if it's not an empty memory cell
+        if (this.data[i] && this.data[i].length) {
+          // but also loop through all the potential collisions
+          if (this.data.length > 1) {
+            for (let j = 0; j < this.data[i].length; j++) {
+              result.push(this.data[i][j][0])
+            }
+          } else {
+            result.push(this.data[i][0])
+          } 
+        }
+    }
+    return result; 
+  }
+```
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="hash-arrays">Hash Tables VS Arrays</a> 
+
+![Hash Tables VS Arrays]()
 
 #
 **[Back to The TOP](#section-overview)**
