@@ -6,6 +6,8 @@
 * **[Map() & Set() in JavaScript](#map-set)**
 * **[Exercise: Implement A Hash Table](#e-hash-table)**
 * **[Hash Tables VS Arrays](#hash-arrays)**
+* **[Hash Tables Review](#hash-tables-review)**
+
 
 ### Arrays Introduction
 - In ``JavaScript``, hash tables are commonly referred to as ``"objects"`` or "associative arrays."
@@ -214,7 +216,18 @@ myHashTable.get('apples')
 
 ### <a name="hash-arrays">Hash Tables VS Arrays</a> 
 
-![Hash Tables VS Arrays]()
+![Hash Tables VS Arrays](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/12.JPG)
 
+In summary, the choice between ``hash tables`` and ``arrays`` depends on the specific requirements of your use case. 
+
+``Arrays`` are simple and efficient for certain scenarios, while ``hash tables`` offer versatility and fast retrieval based on keys. 
+
+It's essential to consider the trade-offs and choose the data structure that aligns with your application's needs. 
 #
+**[Back to The TOP](#section-overview)**
+
+### Hash Tables Review
+
+![Hash Tables Review]()
+
 **[Back to The TOP](#section-overview)**

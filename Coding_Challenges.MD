@@ -2,7 +2,16 @@
 
 ### Section overview
 * **[Create Rectangles](#create-rectangles)**
-* **[15th Challenges](#15th-challenges)**
+* **[Interview Questions: Arrays](#arrays)**
+    * **[Two Sum](#two-sum)**
+    * **[Maximum Subarray](#maximum-subarray)**
+    * **[Move Zeroes](#move-zeroes)**
+    * **[Contains Duplicate](#contains-duplicate)**
+    * **[Rotate Array](#rotate-array)**
+* **[First Recurring Character](#first-recurring)**
+
+
+* **[15th Short Challenges](#15th-challenges)**
 
 
 ### Create Rectangles
@@ -40,6 +49,56 @@ For each test case in a new line, print the answer representing the minimum cost
 #
 **[Back to The TOP](#section-overview)**
 
+* **[Interview Questions: Arrays](#arrays)**
+
+
+#
+**[Back to The TOP](#section-overview)**
+
+### First Recurring Character
+
+Goal is to find the first character in a string that occurs more than once. In other words, you're tasked with identifying the first character that appears for the second time in a given sequence of characters.
+
+- ``Given an array = [2,5,1,2,3,5,1,2,4];`` - ``//It should return 2``
+- ``Given an array = [2,1,1,2,3,5,1,2,4];`` - ``//It should return 1``
+- ``//Given an array = [2,3,4,5];`` - ``//It should return undefined``
+
+#### Solution
+
+```
+function firstRecurringCharacter(input) {
+  for (let i = 0; i < input.length; i++) {
+    for (let j = i + 1; j < input.length; j++) {
+      if(input[i] === input[j]) {
+        return input[i];
+      }
+    }
+  }
+  return undefined
+}
+
+function firstRecurringCharacter2(input) {
+  let map = {};
+  for (let i = 0; i < input.length; i++) {
+    if (map[input[i]] !== undefined) {
+      return input[i]
+    } else {
+      map[input[i]] = i;
+    }
+  }
+  return undefined
+}
+
+firstRecurringCharacter2([1,5,5,1,3,4,6])
+
+
+//Bonus... What if we had this:
+// [2,5,5,2,3,5,1,2,4]
+// return 5 because the pairs are before 2,2
+```
+
+#
+**[Back to The TOP](#section-overview)**
 ### 15th Challenges
 
 #### Question 1:
