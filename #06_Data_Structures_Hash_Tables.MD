@@ -4,7 +4,7 @@
 * **[Arrays Introduction](#data-structure)**
 * **[Hash Function](#hash-function)**
 * **[Map() & Set() in JavaScript](#map-set)**
-
+* **[Exercise: Implement A Hash Table](#e-hash-table)**
 
 
 ### Arrays Introduction
@@ -96,6 +96,41 @@ Maps and Sets find their applications in various scenarios, including:
 - Storing user preferences and data associated with unique identifiers
 - Maintaining a list of distinct items without duplicate entries
 - Performing operations like finding the frequency of elements or identifying unique combinations of items
+
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="e-hash-table">Exercise: Implement A Hash Table</a>
+
+From the following ``class HashTable``, create  ``get()`` and ``set()`` methods to ``set`` new element in Hash table and to ``get`` that element. 
+
+**Starting code**:
+
+```
+class HashTable {
+  constructor(size){
+    this.data = new Array(size);
+  }
+
+  _hash(key) {
+    let hash = 0;
+    for (let i =0; i < key.length; i++){
+        hash = (hash + key.charCodeAt(i) * i) % this.data.length
+    }
+    return hash;
+  }
+}
+
+const myHashTable = new HashTable(50);
+myHashTable.set('grapes', 10000)
+myHashTable.get('grapes')
+myHashTable.set('apples', 9)
+myHashTable.get('apples')
+```
+
+**Solution**:
+
+
 
 #
 **[Back to The TOP](#section-overview)**
