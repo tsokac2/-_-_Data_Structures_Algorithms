@@ -7,6 +7,7 @@
 * **[Linked List in JavaScript](#linked-list-in-javaScript)**
 * **[Doubly Linked Lists](#doubly-Linked-lists)**
 * **[Doubly Linked Lists in JavaScript](#doubly-linked-lists-in-javaScript)**
+* **[Singly VS Doubly Linked Lists](#singly-vs-doubly-linked-lists)**
 
 
 ### <a name="linked-lists">What Is A Linked List?</a>
@@ -272,5 +273,9 @@ class DoublyLinkedList {
 ```
 #
 **[Back to The TOP](#section-overview)**
+
+### Singly VS Doubly Linked Lists
+
+
 
 **[Back to The TOP](#section-overview)**
