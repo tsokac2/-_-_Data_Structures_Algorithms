@@ -33,5 +33,133 @@ Unlike arrays, linked lists do not require contiguous memory locations, allowing
 
 ### <a name="pointer">What Is A Pointer?</a>
 
+It's a reference to another place in memory or another object or another node.
+
+```
+const obj1 = { a: true}
+const obj2 = obj1; // this is a pointer or a refrence to obj1
+```
+
+```
+Node 1: [Data: A] -> [Next: Address of Node 2]
+Node 2: [Data: B] -> [Next: Address of Node 3]
+Node 3: [Data: C] -> [Next: NULL]
+```
+
+In this example, each node contains a data field (A, B, C) and a next pointer, forming a singly linked list. 
+
+The next pointer of Node 1 holds the address of Node 2, and the next pointer of Node 2 holds the address of Node 3. 
+
+The last node's next pointer is typically set to NULL to indicate the end of the list.
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Linked List in JavaScript
+
+JavaScript ``class`` for creating Linked List
+```
+class LinkedList {
+    constructor(value) {
+        this.head = {
+            value: value ,
+            next: null
+        }
+        this.tail = this.head;
+        this.length = 1;
+    }
+
+// append - add to the end of the Linked List
+   append(value) {
+    const newNode = {
+      value: value,
+      next: null
+    }
+    console.log(newNode)
+    this.tail.next = newNode;
+    this.tail = newNode;
+    this.length++;
+    return this;
+  }
+
+// prepend - add to the begining of the Linked List
+    prepend(value) {
+    const newNode = {
+      value: value,
+      next: null
+    }
+    newNode.next = this.head;
+    this.head = newNode;
+    this.length++;
+    return this;
+  }
+
+// print list in array format in the console
+
+    printList() {
+      const array = [];
+      let currentNode = this.head;
+      while(currentNode !== null){
+          array.push(currentNode.value)
+          currentNode = currentNode.next
+      }
+      return array;
+    }
+
+// insert elements between another elements in linked list 
+   insert(index, value){
+    //Check for proper parameters;
+      if(index === 0) {
+        this.prepend(value);
+        return this.printList();
+      }
+      
+      const newNode = {
+        value: value,
+        next: null
+      }
+
+      const leader = this.traverseToIndex(index-1);
+      const holdingPointer = leader.next;
+      leader.next = newNode;
+      newNode.next = holdingPointer;
+      this.length++;
+      return this.printList();
+    }
+
+    traverseToIndex(index) {
+      //Check parameters
+      let counter = 0;
+      let currentNode = this.head;
+      while(counter !== index){
+        currentNode = currentNode.next;
+        counter++;
+      }
+      return currentNode;
+    }
+
+// remove elements from the linked list
+   remove(index) {
+      // Check Parameters      
+      const leader = this.traverseToIndex(index-1);
+      const unwantedNode = leader.next;
+      leader.next = unwantedNode.next;
+      this.length--;
+      return this.printList();
+    }
+
+}
+
+let myLinkedList = new LinkedList(10);
+myLinkedList.append(5);
+myLinkedList.append(16);
+```
+
+![Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/03_linkedLists/linkedListImplementation.js)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Doubly Linked Lists
 
 **[Back to The TOP](#section-overview)**
