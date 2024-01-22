@@ -203,7 +203,7 @@ class Node {
 
 ### <a name="stacks-queues">Stacks + Queues Review</a>
 
-![Stacks + Queues Review]()
+![Stacks + Queues Review](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/19.JPG)
 
 **[Back to The TOP](#section-overview)**
 
