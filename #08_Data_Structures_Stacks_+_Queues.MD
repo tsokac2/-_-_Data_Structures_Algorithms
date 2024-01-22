@@ -3,6 +3,12 @@
 ### Section overview
 * **[Stacks](#stacks)**
 * **[Queues](#queues)**
+* **[Stack Implementation (Linked Lists)](#stack-linked-lists)**
+* **[Stack Implementation (Array)](#stack-array)**
+* **[Queue Implementation](#queue-implementation)**
+* **[Stacks + Queues Review](#stacks-queues)**
+
+
 
 
 ### Stacks 
@@ -30,7 +36,7 @@ FIFO - First In, First Out
 #
 **[Back to The TOP](#section-overview)**
 
-### Stacks Stack Implementation (Linked Lists)
+### <a name="stack-linked-lists">Stack Implementation (Linked Lists)</a>
 
 **JavaScript Class**:
 ```
@@ -91,9 +97,11 @@ class Node {
 [Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/04_stacks/stackImplementation.js)
 #
 **[Back to The TOP](#section-overview)**
-### Stack Implementation (Array)
+
+### <a name="stack-array">Stack Implementation (Array)</a>
 
 **JavaScript Class**:
+
 ```
 class Stack {
     constructor(){
@@ -129,7 +137,9 @@ class Stack {
 [Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/04_stacks/stackArrayImplementation.js)
 #
 **[Back to The TOP](#section-overview)**
+
 ### Queue Implementation
+
 **JavaScript Class**:
 
 ```
@@ -190,9 +200,8 @@ class Node {
 ```
 #
 **[Back to The TOP](#section-overview)**
-### <a name="stacks-queues">Stacks + Queues Review </a>
 
-
+### <a name="stacks-queues">Stacks + Queues Review</a>
 
 
 **[Back to The TOP](#section-overview)**
