@@ -4,6 +4,8 @@
 * **[What Is A Linked List?](#linked-lists)**
 * **[Why Linked Lists?](#why-linked-lists)**
 * **[What Is A Pointer?](#pointer)**
+* **[Linked List in JavaScript](#linked-list-in-javaScript)**
+
 
 
 ### <a name="linked-lists">What Is A Linked List?</a>
@@ -155,7 +157,7 @@ myLinkedList.append(5);
 myLinkedList.append(16);
 ```
 
-![Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/03_linkedLists/linkedListImplementation.js)
+[Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/03_linkedLists/linkedListImplementation.js)
 
 #
 **[Back to The TOP](#section-overview)**
