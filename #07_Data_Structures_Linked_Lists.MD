@@ -411,7 +411,9 @@ class LinkedList {
 
 #
 **[Back to The TOP](#section-overview)**
+
 ### Linked Lists Review
 
+![Linked Lists Review]()
 
 **[Back to The TOP](#section-overview)**
