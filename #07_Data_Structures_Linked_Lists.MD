@@ -170,7 +170,7 @@ These pointers are references to both the next and the previous elements in the 
 
 Unlike a singly linked list, where each element points only to the next one, a doubly linked list allows for bidirectional traversal.
 
-[Doubly Linked Lists](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/15.JPG)
+![Doubly Linked Lists](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/15.JPG)
 #
 **[Back to The TOP](#section-overview)**
 
