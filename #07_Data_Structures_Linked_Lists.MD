@@ -164,4 +164,12 @@ myLinkedList.append(16);
 
 ### Doubly Linked Lists
 
+A Doubly Linked List is a type of linked list where each element, in addition to holding data, has two pointers. 
+
+These pointers are references to both the next and the previous elements in the sequence. 
+
+Unlike a singly linked list, where each element points only to the next one, a doubly linked list allows for bidirectional traversal.
+
+![Doubly Linked Lists]()
+
 **[Back to The TOP](#section-overview)**
