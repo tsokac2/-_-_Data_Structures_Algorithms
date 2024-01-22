@@ -15,9 +15,12 @@ Stacks are often used to implement undo/redo functionality, expression evaluatio
 
 LIFO - Last in - First Out
 
-![Stacks]()
+![Stacks](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/17.png)
 
 ### Queues
+
+
+![Queues]()
 
 #
 **[Back to The TOP](#section-overview)**
