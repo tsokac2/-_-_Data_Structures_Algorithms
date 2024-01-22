@@ -3,6 +3,7 @@
 ### Section overview
 * **[What Is A Linked List?](#linked-lists)**
 * **[Why Linked Lists?](#why-linked-lists)**
+* **[What Is A Pointer?](#pointer)**
 
 
 ### <a name="linked-lists">What Is A Linked List?</a>
@@ -25,7 +26,12 @@ Unlike arrays, linked lists do not require contiguous memory locations, allowing
 
 - **Simplifying Memory Management**: Memory can be allocated and deallocated more dynamically in linked lists compared to arrays.
 
-![Why Linked Lists]()
+![Why Linked Lists](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/14.JPG)
 
 #
+**[Back to The TOP](#section-overview)**
+
+### <a name="pointer">What Is A Pointer?</a>
+
+
 **[Back to The TOP](#section-overview)**
