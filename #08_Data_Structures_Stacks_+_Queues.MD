@@ -8,9 +8,6 @@
 * **[Queue Implementation](#queue-implementation)**
 * **[Stacks + Queues Review](#stacks-queues)**
 
-
-
-
 ### Stacks 
 
 A stack is a linear data structure that follows the LIFO (Last In First Out) principle. 
