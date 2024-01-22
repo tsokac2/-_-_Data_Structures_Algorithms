@@ -203,6 +203,7 @@ class Node {
 
 ### <a name="stacks-queues">Stacks + Queues Review</a>
 
+![Stacks + Queues Review]()
 
 **[Back to The TOP](#section-overview)**
 
