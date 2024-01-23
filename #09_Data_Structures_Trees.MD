@@ -5,6 +5,8 @@
 * **[Binary Trees](#binary-trees)**
 * **[Binary Search Trees](#binary-search-trees)**
 * **[Balanced VS Unbalanced BST](#balanced-vs-unbalanced-bst)**
+* **[BST Pros and Cons](#bst-pros-and-cons)**
+
 
 ### Trees Introduction
 
@@ -60,8 +62,22 @@ It is a sorted tree, meaning that the keys of each node are ordered in a specifi
 
 ### Balanced VS Unbalanced BST
 
+**Balanced BSTs**:
+- A balanced BST maintains a well-structured tree shape, ensuring that the height of the tree is ``O(log n)``, where n is the number of elements. 
+- This property guarantees efficient search, insertion, and deletion operations with an average time complexity of ``O(log n)``.
 
-![Balanced vs unbalanced]()
+**Unbalanced BSTs**:
+- An unbalanced BST can grow disproportionately, resulting in a skewed tree structure. 
+- This can lead to poor performance, especially for search operations. 
+
+![Balanced vs unbalanced](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/22.JPG)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### BST Pros and Cons
+
+![BST Pros and Cons]()
 
 #
 **[Back to The TOP](#section-overview)**
