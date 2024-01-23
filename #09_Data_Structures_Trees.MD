@@ -279,5 +279,17 @@ A binary heap is a data structure that resembles a complete binary tree with two
 
 ### Priority Queue
 
+Priority queues find applications in various scenarios where tasks or elements have different levels of urgency, importance, or priority. 
+
+**Some common use cases include**:
+
+- **Task Scheduling**: Managing tasks based on their priority or deadline.
+
+- **Graph Algorithms**: Used in algorithms like Dijkstra's shortest path algorithm or Prim's minimum spanning tree algorithm.
+
+- **Job Scheduling**: Prioritizing and scheduling jobs based on their urgency.
+
+![Priority Queue](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/25.JPG)
+
 #
 **[Back to The TOP](#section-overview)**
