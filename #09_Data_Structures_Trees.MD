@@ -36,7 +36,7 @@ Trees are a versatile and powerful data structure that can be used for a variety
 ### Binary Trees
 
 
-![ Binary Trees](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/21.JPG)
+![Binary Trees](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/21.JPG)
 
 #
 **[Back to The TOP](#section-overview)**
