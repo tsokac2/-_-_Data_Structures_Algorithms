@@ -6,6 +6,7 @@
 * **[Binary Search Trees](#binary-search-trees)**
 * **[Balanced VS Unbalanced BST](#balanced-vs-unbalanced-bst)**
 * **[BST Pros and Cons](#bst-pros-and-cons)**
+* **[Exercise: Binary Search Tree](#e-bst)**
 
 
 ### Trees Introduction
@@ -77,7 +78,12 @@ It is a sorted tree, meaning that the keys of each node are ordered in a specifi
 
 ### BST Pros and Cons
 
-![BST Pros and Cons]()
+![BST Pros and Cons](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/23.JPG)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="e-bst"> Exercise: Binary Search Tree </a>
 
 #
 **[Back to The TOP](#section-overview)**
