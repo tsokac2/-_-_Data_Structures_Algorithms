@@ -10,7 +10,7 @@
 * **[AVL Trees + Red Black Trees](#avl-black)**
 * **[Binary Heaps](#binary-heaps)**
 * **[Priority Queue](#priority-queue)**
-
+* **[Trie](#trie)**
 
 ### Trees Introduction
 
