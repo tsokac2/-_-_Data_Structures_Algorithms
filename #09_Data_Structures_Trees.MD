@@ -1,9 +1,10 @@
 <h1 align="center">Data Structures: Stacks + Queues</h1>
 
 ### Section overview
-* **[Trees Introduction](#treesintroduction)**
-
-
+* **[Trees Introduction](#trees-introduction)**
+* **[Binary Trees](#binary-trees)**
+* **[Binary Search Trees](#binary-search-trees)**
+* **[Balanced VS Unbalanced BST](#balanced-vs-unbalanced-bst)**
 
 ### Trees Introduction
 
@@ -38,6 +39,29 @@ Trees are a versatile and powerful data structure that can be used for a variety
 A binary tree is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. It is a type of tree data structure, where each node can have 0, 1, or 2 child nodes.
 
 ![Binary Trees](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/21.JPG)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Binary Search Trees
+
+A binary search tree (BST) is a tree-based data structure that efficiently stores and retrieves elements based on their keys. 
+
+It is a sorted tree, meaning that the keys of each node are ordered in a specific way. This property allows for efficient searching, inserting, and deleting operations.
+
+**Key Properties of Binary Search Trees**:
+
+- **Ordered Structure**: Every node's key is greater than all keys in its left subtree and smaller than all keys in its right subtree.
+
+- **Recursive Structure**: This property applies recursively to the left and right subtrees of each node, ensuring the overall order of the tree.
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Balanced VS Unbalanced BST
+
+
+![Balanced vs unbalanced]()
 
 #
 **[Back to The TOP](#section-overview)**
