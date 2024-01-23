@@ -293,3 +293,11 @@ Priority queues find applications in various scenarios where tasks or elements h
 
 #
 **[Back to The TOP](#section-overview)**
+
+### Trie
+
+A Trie, also known as a prefix tree, is a tree-like data structure used for efficiently storing and searching a dynamic set or **associative array where keys are usually strings**. 
+
+The word "Trie" comes from the word retrieval, as the structure is particularly well-suited for retrieval operations.
+
+**[Back to The TOP](#section-overview)**
