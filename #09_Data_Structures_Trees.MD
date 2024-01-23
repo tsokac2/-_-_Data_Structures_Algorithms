@@ -9,6 +9,7 @@
 * **[Exercise: Binary Search Tree](#e-bst)**
 * **[AVL Trees + Red Black Trees](#avl-black)**
 * **[Binary Heaps](#binary-heaps)**
+* **[Priority Queue](#priority-queue)**
 
 
 ### Trees Introduction
@@ -265,8 +266,18 @@ The choice between them often depends on specific use cases and the trade-offs b
 
 ### Binary Heaps
 
+A binary heap is a data structure that resembles a complete binary tree with two additional constraints:
 
-![Binary Heaps]()
+- **Heap Property**: In a max heap, the key (value) of a parent node is greater than or equal to the keys of its child nodes. Conversely, in a min heap, the key of a parent node is less than or equal to the keys of its child nodes.
+
+- **Complete Binary Tree**: A complete binary tree is a special type of binary tree in which all levels except possibly the last level are completely filled, and if the last level is not complete, the nodes of that level are filled from left to right.
+
+![Binary Heaps](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/24.JPG)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Priority Queue
 
 #
 **[Back to The TOP](#section-overview)**
