@@ -203,36 +203,3 @@ class Node {
 ![Stacks + Queues Review](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/19.JPG)
 
 **[Back to The TOP](#section-overview)**
-
-
-How Does Javascript Work?
-
-JavaScript is a single threaded language that can be non blocking.
-
-What is a program?
-    - allocate memory
-    - parse and execute 
-
-What is a Memory Heap?
-
-What is Memory Leak?
-
-What is Call Stack? FILO - First in Last Out
-en
-What is a Synchronous programming? -  line one gets executed, then line two gets executed, and then
-
-Create Stack Overflow:
-
-And recursion means a function that calls itself.
-
-function foo(){
-    foo()
-}
-
-Javascript is a single threaded language that can be non-blocking?
-
-Well, asynchronous to the rescue.
-
-
-What is JavaScript Run-Time Environment
-
