@@ -7,6 +7,8 @@
 * **[Balanced VS Unbalanced BST](#balanced-vs-unbalanced-bst)**
 * **[BST Pros and Cons](#bst-pros-and-cons)**
 * **[Exercise: Binary Search Tree](#e-bst)**
+* **[AVL Trees + Red Black Trees](#avl-black)**
+* **[Binary Heaps](#binary-heaps)**
 
 
 ### Trees Introduction
@@ -149,7 +151,7 @@ class BinarySearchTree {
       return false;
     }
   
-  // REMOVE data from the tree
+  // REMOVE data from the tree - advance stuff
     remove(value) {
       if (!this.root) {
         return false;
@@ -251,7 +253,20 @@ class BinarySearchTree {
   }
 
 ```
-
 [Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/06_trees/binaryTreeImplementation.js)
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="avl-black">AVL Trees + Red Black Trees</a>
+
+In conclusion, ``AVL trees`` and ``Red-`Black` trees are invaluable in scenarios where maintaining a balanced binary search tree is essential for efficient data retrieval and modification. 
+
+The choice between them often depends on specific use cases and the trade-offs between stricter balance (AVL) and slightly relaxed balance (Red-Black) in terms of performance and memory overhead.
+
+### Binary Heaps
+
+
+![Binary Heaps]()
+
 #
 **[Back to The TOP](#section-overview)**
