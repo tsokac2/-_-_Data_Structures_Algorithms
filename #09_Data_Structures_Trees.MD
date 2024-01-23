@@ -35,6 +35,8 @@ Trees are a versatile and powerful data structure that can be used for a variety
 
 ### Binary Trees
 
+A binary tree is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. It is a type of tree data structure, where each node can have 0, 1, or 2 child nodes.
+
 
 ![Binary Trees]()
 
