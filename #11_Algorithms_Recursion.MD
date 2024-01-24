@@ -198,7 +198,7 @@ fibonacciRecursive(6)
 
 ### When To Use Recursion
 
-![When To Use Recursion]()
+![When To Use Recursion](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/35.png)
 
 Here is one of the real world application example of when to use recursion: 
 
