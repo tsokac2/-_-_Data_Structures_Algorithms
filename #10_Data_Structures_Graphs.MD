@@ -98,7 +98,7 @@ const graph = {
     3: [0,1,1,0]
 }
 ```
-![Graph Data]()
+![Graph Data](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/31.JPG)
 
 #
 **[Back to The TOP](#section-overview)**
