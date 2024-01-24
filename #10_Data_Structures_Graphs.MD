@@ -67,5 +67,9 @@ Graphs can be either directed or undirected, depending on whether the edges have
 - A complete graph has an edge between every pair of nodes.
 - Suitable for scenarios where every pair of entities is directly connected.
 
+**Example of - Direct Acyclic Graph**
+
+![Direct Acyclic Graph]()
+
 #
 **[Back to The TOP](#section-overview)**
