@@ -200,6 +200,10 @@ fibonacciRecursive(6)
 
 ![When To Use Recursion]()
 
+Here is one of the real world application example of when to use recursion: 
+
+**[LINK](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)**
+
 #
 **[Back to The TOP](#section-overview)**
 
