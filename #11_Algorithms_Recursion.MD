@@ -7,7 +7,7 @@
 * **[Exercise: Factorial](#e-factorial)**
 * **[Exercise: Fibonacci](#e-fibonacci)**
 * **[Recursive VS Iterative](#recursive-vs-iterative)**
-
+* **[When To Use Recursion](#when-to-use-recursion)**
 
 ### Introduction to Algorithms
 
@@ -204,6 +204,5 @@ Here is one of the real world application example of when to use recursion:
 
 **[LINK](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)**
 
-#
 **[Back to The TOP](#section-overview)**
 
