@@ -3,6 +3,7 @@
 ### Section overview
 
 * **[Sorting Introduction](#introduction-to-algorithms)**
+* **[Bubble Sort](#bubble-sort)**
 
 Sorting algorithms are fundamental in computer science and play a crucial role in various applications. 
 
@@ -27,5 +28,10 @@ Here are some commonly used sorting algorithms and examples of tech companies th
 **Quicksort**:
 - **Description**: Quicksort is a divide-and-conquer algorithm that partitions an array and recursively sorts sub-arrays.
 - **Tech Companies**: Google, LinkedIn, and Microsoft often use Quicksort due to its efficiency on average.
+#
+**[Back to The TOP](#section-overview)**
+
+### Bubble Sort
+
 #
 **[Back to The TOP](#section-overview)**
