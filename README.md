@@ -25,6 +25,10 @@
 * **[Coding Challenges](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/Coding_Challenges.MD)**
 
 
+* **[TopTal - JavaScript Hiring-guide](https://www.toptal.com/javascript#hiring-guide)**
+
+
+
 ![Img_01](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/01.png)
 
 
