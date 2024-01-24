@@ -6,6 +6,7 @@
 * **[Anatomy Of Recursion](#anatomy-of-recursion)**
 * **[Exercise: Factorial](#e-factorial)**
 * **[Exercise: Fibonacci](#e-fibonacci)**
+* **[Recursive VS Iterative](#recursive-vs-iterative)**
 
 
 ### Introduction to Algorithms
@@ -182,10 +183,9 @@ fibonacciRecursive(6)
 
 ### Recursive VS Iterative
 
-![Recursive VS Iterative]()
+![Recursive VS Iterative](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/33.png)
 
-![Recursive]()
-
+![Recursive](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/34.png)
 
 #### Choosing Between Them:
 
@@ -197,6 +197,8 @@ fibonacciRecursive(6)
 **[Back to The TOP](#section-overview)**
 
 ### When To Use Recursion
+
+![When To Use Recursion]()
 
 #
 **[Back to The TOP](#section-overview)**
