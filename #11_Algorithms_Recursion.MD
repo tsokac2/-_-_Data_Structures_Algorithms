@@ -180,3 +180,24 @@ fibonacciRecursive(6)
 #
 **[Back to The TOP](#section-overview)**
 
+### Recursive VS Iterative
+
+![Recursive VS Iterative]()
+
+![Recursive]()
+
+
+#### Choosing Between Them:
+
+- **Nature of the Problem**: Recursive solutions may be more natural for certain problems like tree traversal, while iterative solutions might be preferable for tasks involving loops and iteration.
+- **Performance Considerations**: If performance is critical and memory efficiency is a concern, an iterative approach is often favored.
+- **Language Support**: Some languages have better support for recursion optimization, making it a more viable option
+
+#
+**[Back to The TOP](#section-overview)**
+
+### When To Use Recursion
+
+#
+**[Back to The TOP](#section-overview)**
+
