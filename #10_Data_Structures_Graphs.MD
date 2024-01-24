@@ -11,7 +11,7 @@ The nodes represent entities, and the edges represent relationships between thes
 
 Graphs can be either directed or undirected, depending on whether the edges have a specific direction.
 
-![Graphs]()
+![Graphs](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/26.JPG)
 
 #
 **[Back to The TOP](#section-overview)**
@@ -26,7 +26,7 @@ Graphs can be either directed or undirected, depending on whether the edges have
 - In an undirected graph, edges have no direction, indicating a two-way relationship between nodes.
 - It represents symmetric relationships between entities.
 
-![Directed]()
+![Directed](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/27.JPG)
 
 **Weighted Graphs**:
 
@@ -38,7 +38,7 @@ Graphs can be either directed or undirected, depending on whether the edges have
 - In contrast to weighted graphs, unweighted graphs do not assign any numerical value to edges.
 - Suitable for scenarios where the relationships are binary.
 
-![Unweighted]()
+![Unweighted](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/28.JPG)
 
 **Cyclic Graphs**:
 
@@ -49,7 +49,7 @@ Graphs can be either directed or undirected, depending on whether the edges have
 - Acyclic graphs do not contain cycles, making them tree-like structures.
 - Particularly useful in scenarios where avoiding repetition is crucial.
 
-![Unweighted]()
+![Cyclic](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/29.JPG)
 
 **Connected Graphs**:
 - A connected graph has a path between every pair of nodes.
