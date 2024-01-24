@@ -10,6 +10,8 @@
     * **[Rotate Array](#rotate-array)**
 * **[First Recurring Character](#first-recurring)**
 * **[Implement Queue using Stacks](#implement-queue-using-stacks)**
+* **[Exercise: Factorial](#e-factorial)**
+
 * **[15th Short Challenges](#15th-challenges)**
 
 
@@ -246,6 +248,43 @@ myQueue.peek(); // return 1
 myQueue.pop(); // return 1, queue is [2]
 myQueue.empty(); // return false
 ```
+
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="e-factorial">Exercise: Factorial</a>
+
+Write two functions that finds the factorial of any number.
+
+One should use recursive, the other should just use a for loop.
+
+**For loop solution**:
+```
+function findFactorialIterative(number) {
+  let answer = 1;
+  // you actually no longer need the if statement because of the for loop
+  // if (number === 2) {
+  //   answer = 2;
+  // }
+  for (let i = 2; i <= number; i++) {
+    answer = answer * i;
+  }
+  return answer;
+}
+findFactorialIterative(5);
+```
+
+**Recursive solution**:
+```
+function findFactorialRecursive(number) {
+  if(number === 2) {
+    return 2;
+  }
+  return number * findFactorialRecursive(number - 1)
+}
+findFactorialRecursive(5);
+```
+
 
 #
 **[Back to The TOP](#section-overview)**
