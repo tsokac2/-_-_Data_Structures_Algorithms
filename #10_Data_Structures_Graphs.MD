@@ -3,6 +3,9 @@
 ### Section overview
 * **[Graphs Introduction](#graphs-introduction)**
 * **[Types Of Graphs](#types-of-graphs)**
+* **[Graph Data](#graph-data)**
+
+
 
 ### Graphs Introduction
 A graph is a data structure that consists of a set of ``nodes (vertices)`` and a set of edges connecting these nodes. 
@@ -70,6 +73,32 @@ Graphs can be either directed or undirected, depending on whether the edges have
 **Example of - Direct Acyclic Graph**
 
 ![Direct Acyclic Graph](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/30.JPG)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Graph Data
+
+```
+//Edge List
+const graph = [[0,2],[2,3],[2,1],[1,3]];
+```
+
+```
+//Adjacent List
+const graph = [[2], [2,3], [0,1,3], [1,2]];
+```
+
+```
+//Adjacent Matrix
+const graph = {
+    0: [0,0,1,0],
+    1: [0,0,1,1],
+    2: [1,1,0,1],
+    3: [0,1,1,0]
+}
+```
+![Graph Data]()
 
 #
 **[Back to The TOP](#section-overview)**
