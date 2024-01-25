@@ -11,7 +11,7 @@
 
 
 
-* **[Stable VS Unstable Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12406632#overview)**
+* **[Stable VS Unstable Algorithms](https://stackoverflow.com/questions/1517793/what-is-stability-in-sorting-algorithms-and-why-is-it-important)**
 
 
 
