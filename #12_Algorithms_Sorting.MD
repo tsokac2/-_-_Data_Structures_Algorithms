@@ -8,12 +8,11 @@
 * **[Insertion Sort](#insertion-sort)**
 * **[Merge Sort and O(n log n)](#merge-sort)**
 * **[Quick Sort](#quick-sort)**
-
-
+* **[Radix Sort](https://brilliant.org/wiki/radix-sort/)**
+* **[Counting Sort](https://brilliant.org/wiki/counting-sort/)**
+* **[Exercise: Sorting Interview](#e-sorting)**
 
 * **[Stable VS Unstable Algorithms](https://stackoverflow.com/questions/1517793/what-is-stability-in-sorting-algorithms-and-why-is-it-important)**
-
-
 
 
 Sorting algorithms are fundamental in computer science and play a crucial role in various applications. 
@@ -251,5 +250,50 @@ function quickSortMine(array, left, right) {
 const answer = quickSort(numbers, 0, numbers.length - 1);
 console.log(answer);
 ```
+#
+**[Back to The TOP](#section-overview)**
+
+### Which Sort Is Best?
+
+- **Insertion sort** -  should be used with only a few items if your input is small or items are mostly sorted data.
+
+- **Bubble Sort** - It's only really used for educational purposes as a way to teach sorting.
+
+- **Selection Sort** - Mostly it's being used as a teaching mechanism, which I did.
+
+- **Merg Sort** - is really, really good because of ``divide and conquer``. So if you're worried about worst case scenarios, you should use merge sort.
+
+- **Quick Sort** - It's probably one of the most popular sorting algorithms, but the one downside is this ``Worst case`` if you don't pick the pivot properly, you could have a really, really slow sorting.
+
+#
+**[Back to The TOP](#section-overview)**
+
+<a name="e-sorting">Exercise: Sorting Interview</a>
+
+### 1. Sort 10 schools around your house by distance: 
+Insertion sort - It's easy to code and it has space complexity of of one.
+
+### 2. eBay sorts listings by the current Bid amount: 
+Radix or Counting sort - And because it's a fixed length of integers, integers are most likely not going to be 100 million because,
+
+### 3. Sport scores on ESPN: 
+Quick sort 
+
+### 4. Massive database (can't fit all into memory) needs to sort through past year's user data: 
+Merge Sort
+
+### 5. Almost sorted Udemy review data needs to update and add 2 new reviews:
+Insertion Sort 
+
+### 6. Temperature Records for the past 50 years in Canada:
+Radix or Counting Sort
+Quick sort if decimal places
+
+### 7. Large user name database needs to be sorted. Data is very random:
+Quick sort 
+
+### 8. You want to teach sorting for the first time:
+Bubble sort 
+
 #
 **[Back to The TOP](#section-overview)**
