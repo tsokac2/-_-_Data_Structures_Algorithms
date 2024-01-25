@@ -4,11 +4,12 @@
 
 * **[Sorting Introduction](#introduction-to-algorithms)**
 * **[Bubble Sort](#bubble-sort)**
+* **[Selection Sort](#selection-sort)**
+
 
 Sorting algorithms are fundamental in computer science and play a crucial role in various applications. 
 
 Here are some commonly used sorting algorithms and examples of tech companies that may use them:
-
 
 **Bubble Sort**:
 - **Description**: Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
@@ -32,6 +33,64 @@ Here are some commonly used sorting algorithms and examples of tech companies th
 **[Back to The TOP](#section-overview)**
 
 ### Bubble Sort
+
+**JavaScript example**:
+
+```
+const numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0];
+
+function bubbleSort(array) {
+  const length = array.length;
+  for (let i = 0; i < length; i++) {
+    for (let j = 0; j < length; j++) { 
+      if(array[j] > array[j+1]) {
+        //Swap the numbers
+        let temp = array[j]
+        array[j] = array[j+1];
+        array[j+1] = temp;
+      }
+    }        
+  }
+}
+
+bubbleSort(numbers);
+console.log(numbers);
+```
+**[Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/09_sorting/bubbleSort.js)**
+#
+**[Back to The TOP](#section-overview)**
+
+### Selection Sort
+
+**JavaScript example**:
+```
+const numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0];
+
+function selectionSort(array) {
+    const length = array.length;
+
+    for (let i = 0; i < length - 1; i++) {
+        // Set current index as minimum
+        let min = i;
+        let temp = array[i];
+
+        for (let j = i + 1; j < length; j++) {
+            if (array[j] < array[min]) {
+                // Update minimum if current is lower that what we had previously
+                min = j;
+            }
+        }
+
+        array[i] = array[min];
+        array[min] = temp;
+    }
+
+    return array;
+}
+
+console.log(selectionSort(numbers));
+```
+**[Core Link](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo/blob/main/09_sorting/selectionSort.js)**
 
 #
 **[Back to The TOP](#section-overview)**
