@@ -67,6 +67,14 @@ Breadth-First Search (BFS) is a graph traversal algorithm used to explore all th
  
 The main idea behind BFS is to visit all the neighbors of a given node before moving on to the next level of nodes in the graph.
 
+**Logic Example**:
+
+```
+//     9
+//  4     20
+//1  6  15  170
+```
+**Array example**: ``[9, 4, 20, 1, 6, 15, 170]``
 #
 **[Back to The TOP](#section-overview)**
 
@@ -75,6 +83,35 @@ The main idea behind BFS is to visit all the neighbors of a given node before mo
 Depth First Search (DFS) is a graph traversal algorithm that explores as far as possible along each branch before backtracking. 
 
 It's a fundamental algorithm used in graph theory and various applications, including maze solving, topological sorting, and connected components identification.
+
+**Logic Example**:
+
+```
+//     9
+//  4     20
+//1  6  15  170
+```
+**Array example**: ``[9, 4, 20, 1, 6, 20, 15, 170]``
+
+#
+**[Back to The TOP](#section-overview)**
+
+### BFS vs DFS
+
+In choosing between BFS and DFS, the specific requirements of the problem and the characteristics of the graph play a crucial role. 
+
+If you need the shortest path, BFS is often preferable. 
+
+If memory is a concern or you're dealing with a deep graph, DFS might be a better choice.
+
+#### BFS
+
+![]()
+
+
+#### DFS
+
+![]()
 
 #
 **[Back to The TOP](#section-overview)**
