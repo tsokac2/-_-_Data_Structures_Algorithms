@@ -124,7 +124,7 @@ If memory is a concern or you're dealing with a deep graph, DFS might be a bette
 #
 **[Back to The TOP](#section-overview)**
 
-<a name="e-bfs-vs-dfs" >Exercise: BFS vs DFS</a>
+### <a name="e-bfs-vs-dfs" >Exercise: BFS vs DFS</a>
 
 1. If you know a solution is not far from the root of the tree: **BFS**
 2. If the tree is very deep and solutions are rare: **BFS (DFS will take long)**
@@ -315,7 +315,7 @@ class Node {
 #
 **[Back to The TOP](#section-overview)**
 
-<a name="code-dfs">depthFirstSearch()</a>
+### <a name="code-dfs">depthFirstSearch()</a>
 
 **JavaScript Example**:
 
