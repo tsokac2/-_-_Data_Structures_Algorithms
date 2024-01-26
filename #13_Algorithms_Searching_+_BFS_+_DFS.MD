@@ -8,6 +8,10 @@
 * **[BFS vs DFS](#bfs-vs-dfs)**
 
 
+* **[Big O - BFS and DFS](https://stackoverflow.com/questions/9844193/what-is-the-time-and-space-complexity-of-a-breadth-first-and-depth-first-tree-tr)**
+
+
+
 ### Linear Search
 A linear search, also known as a sequential search, is a simple method for finding a specific value within a list or array. 
 
