@@ -1,4 +1,4 @@
-<h1 align="center">#13_Algorithms_Searching_+_BFS + DFS</h1>
+<h1 align="center">Algorithms: Searching + BFS + DFS</h1>
 
 ### Section overview
 * **[Linear Search](#linear-search)**
@@ -9,10 +9,8 @@
 * **[Exercise: BFS vs DFS](#e-bfs-vs-df)**
 * **[breadthFirstSearch()](#code-bfs)**
 * **[depthFirstSearch()](#code-dfs)**
-
-
+* **[Dijkstra + Bellman-Ford Algorithms](#d-b)**
 * **[Big O - BFS and DFS](https://stackoverflow.com/questions/9844193/what-is-the-time-and-space-complexity-of-a-breadth-first-and-depth-first-tree-tr)**
-
 
 
 ### Linear Search
@@ -557,6 +555,17 @@ class Node {
     return tree;
   }
 ```
-
 #
+**[Back to The TOP](#section-overview)**
+
+### <a name="d-b">Dijkstra + Bellman-Ford Algorithms</a>
+
+- **Efficiency**: Dijkstra's algorithm is generally more efficient for graphs with non-negative edge weights. Bellman-Ford is less efficient but more versatile in handling graphs with negative weights.
+- **Edge Cases**: Bellman-Ford can detect negative cycles, making it robust in scenarios where this needs to be identified.
+- **Complexity**: Dijkstra's algorithm has a time complexity of O(V^2) with an adjacency matrix or O((V + E) * log(V)) with an adjacency list. Bellman-Ford has a time complexity of O(VE).
+
+In summary, if your graph has non-negative edge weights, Dijkstra's algorithm is a great choice due to its efficiency. 
+
+If negative weights are a consideration or if you need to detect negative cycles, then Bellman-Ford is more suitable despite its higher time complexity.
+
 **[Back to The TOP](#section-overview)**
