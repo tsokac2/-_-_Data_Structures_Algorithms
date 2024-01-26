@@ -148,11 +148,4 @@ console.log("DP", fasterFib(100));
 console.log("DP2", fibonacciMaster2(100));
 console.log("we did " + calculations + " calculations");
 ```
-#
-**[Back to The TOP](#section-overview)**
-
-###  Dynamic Programming Review
-
-
-#
 **[Back to The TOP](#section-overview)**
