@@ -1,9 +1,12 @@
 <h1 align="center">Algorithms: Dynamic Programming</h1>
 
 ### Section overview
-* **[Linear Search](#linear-search)**
+* **[Memoization 1](#memoization-1)**
 
 
+
+
+### Memoization 1
 
 
 
