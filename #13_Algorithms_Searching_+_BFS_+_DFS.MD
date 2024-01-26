@@ -5,6 +5,8 @@
 * **[Binary Search](#binary-search)**
 * **[BFS (Breadth First Search) Introduction](#bfs)**
 * **[DFS (Depth First Search) Introduction](#dfs)**
+* **[BFS vs DFS](#bfs-vs-dfs)**
+
 
 ### Linear Search
 A linear search, also known as a sequential search, is a simple method for finding a specific value within a list or array. 
