@@ -106,12 +106,11 @@ If memory is a concern or you're dealing with a deep graph, DFS might be a bette
 
 #### BFS
 
-![]()
-
+![BFS](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/37.JPG)
 
 #### DFS
 
-![]()
+![DFS](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/38.JPG)
 
 #
 **[Back to The TOP](#section-overview)**
