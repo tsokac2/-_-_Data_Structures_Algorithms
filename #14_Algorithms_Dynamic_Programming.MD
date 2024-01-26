@@ -3,6 +3,9 @@
 ### Section overview
 * **[Dynamic Programming Introduction](#dynamic-programming-introduction)**
 * **[Memoization](#memoization)**
+* **[Dynamic Programming Rules](#dynamic-programming-rules)**
+
+
 
 
 ### Dynamic Programming Introduction
@@ -88,12 +91,12 @@ fibonacci(6);
 #
 **[Back to The TOP](#section-overview)**
 
-### 
+### Dynamic Programming Rules
 
-![Dynamic Programing Rules]()
+![Dynamic Programing Rules](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/41.png)
 
 
-![Dynamic Programing Rules]()
+![Dynamic Programing Rules](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/42.png)
 
 #
 **[Back to The TOP](#section-overview)**
