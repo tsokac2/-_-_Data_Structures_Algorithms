@@ -4,8 +4,7 @@
 * **[Dynamic Programming Introduction](#dynamic-programming-introduction)**
 * **[Memoization](#memoization)**
 * **[Dynamic Programming Rules](#dynamic-programming-rules)**
-
-
+* **[Implementing Dynamic Programming](#implementing-dynamic-programming)**
 
 
 ### Dynamic Programming Introduction
@@ -95,8 +94,65 @@ fibonacci(6);
 
 ![Dynamic Programing Rules](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/41.png)
 
-
 ![Dynamic Programing Rules](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/42.png)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Implementing Dynamic Programming
+
+**JavaScript code example**:
+
+```
+//0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233...
+let calculations = 0;
+function fibonacci(n) {
+  //O(2^n)
+
+  if (n < 2) {
+    return n;
+  }
+  return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
+function fibonacciMaster() {
+  //O(n)
+  let cache = {};
+  return function fib(n) {
+    calculations++;
+    if (n in cache) {
+      return cache[n];
+    } else {
+      if (n < 2) {
+        return n;
+      } else {
+        cache[n] = fib(n - 1) + fib(n - 2);
+        return cache[n];
+      }
+    }
+  };
+}
+
+function fibonacciMaster2(n) {
+  let answer = [0, 1];
+  for (let i = 2; i <= n; i++) {
+    answer.push(answer[i - 2] + answer[i - 1]);
+  }
+  return answer.pop();
+}
+
+const fasterFib = fibonacciMaster();
+
+console.log("Slow", fibonacci(35));
+console.log("DP", fasterFib(100));
+console.log("DP2", fibonacciMaster2(100));
+console.log("we did " + calculations + " calculations");
+```
+#
+**[Back to The TOP](#section-overview)**
+
+###  Dynamic Programming Review
+
 
 #
 **[Back to The TOP](#section-overview)**

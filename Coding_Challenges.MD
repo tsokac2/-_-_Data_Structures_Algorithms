@@ -14,6 +14,12 @@
 * **[Exercise: Fibonacci](#e-fibonacci)**
 * **[Validate Binary Search Tree](#validate-binary-search-tree)**
 
+* **[House Robber](#house-robber)**
+
+* **[Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)**
+
+* **[Climbing Stairs](#climbing-stairs)**
+
 * **[15th Short Challenges](#15th-challenges)**
 
 
@@ -349,6 +355,56 @@ A **valid BST** is defined as follows:
 - **Input**: ``root = [5,1,4,null,null,3,6]``
 - **Output**: ``false``
 - **Explanation**: ``The root node's value is 5 but its right child's value is 4.``
+
+#
+**[Back to The TOP](#section-overview)**
+
+### House Robber
+
+You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
+
+Given an integer array ``nums`` representing the amount of money of each house, return the maximum amount of money you can rob **tonight without alerting the police**.
+
+**Example 1**:
+- **Input**: ``nums = [1,2,3,1]``
+- **Output**: ``4``
+- **Explanation**: ``Rob house 1 (money = 1) and then rob house 3 (money = 3)``.
+- Total amount you can rob = 1 + 3 = 4.
+
+**Example 2**:
+- **Input**: ``nums = [2,7,9,3,1]``
+- **Output**: ``12``
+- **Explanation**: Rob house 1 (money = 2), rob house 3 (money = 9) and rob house 5 (money = 1).
+- Total amount you can rob = 2 + 9 + 1 = 12.
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Best Time to Buy and Sell Stock
+
+You are given an array ``prices`` where ``prices[i]`` is the price of a given stock on the ``i^th`` day.
+
+You want to maximize your profit by choosing a ``single day`` to buy one stock and choosing a ``different day in the future`` to sell that stock.
+
+Return the _maximum profit you can achieve from this transaction_. If you cannot achieve any profit, return 0.
+
+**Example 1**:
+
+- **Input**: ``prices = [7,1,5,3,6,4]``
+- **Output**: ``5``
+- **Explanation**: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+
+**Example 2**:
+- **Input**: prices = [7,6,4,3,1]
+- **Output**: 0
+- **Explanation**: In this case, no transactions are done and the max profit = 0.
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Climbing Stairs
+
 
 #
 **[Back to The TOP](#section-overview)**
