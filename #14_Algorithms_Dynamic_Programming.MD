@@ -2,7 +2,7 @@
 
 ### Section overview
 * **[Dynamic Programming Introduction](#dynamic-programming-introduction)**
-* **[Memoization 1](#memoization)**
+* **[Memoization](#memoization)**
 
 
 ### Dynamic Programming Introduction
@@ -62,5 +62,38 @@ function addTo80(n) {
   // console.log('-----------')
   console.log(2, memoized(6))
 ```
+#
+**[Back to The TOP](#section-overview)**
+
+### Fibonacci and Dynamic Programming
+
+**JavaScript Example**:
+
+```
+//0,1,1,2,3,5,8,13,21,34,55,89,144,233
+
+let calculations = 0;
+const fibonacci = n => {
+    calculations++;
+    console.log(calculations)
+    if(n < 2){
+        return n;
+    }
+    return fibonacci(n-1) + fibonacci(n-2);
+};
+fibonacci(6);
+
+//Return 25 calculations for n = 6 - not very efficiant
+```
+#
+**[Back to The TOP](#section-overview)**
+
+### 
+
+![Dynamic Programing Rules]()
+
+
+![Dynamic Programing Rules]()
+
 #
 **[Back to The TOP](#section-overview)**
