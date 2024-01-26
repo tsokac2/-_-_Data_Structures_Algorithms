@@ -337,18 +337,18 @@ A **valid BST** is defined as follows:
 
 **Example 1**:
 
-![]()
+![Example_1](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/39.JPG)
 
-**Input**: ``root = [2,1,3]``
-**Output**: ``true``
+- **Input**: ``root = [2,1,3]``
+- **Output**: ``true``
 
 **Example 2**:
 
-![]()
+![Example_2](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/40.JPG)
 
-**Input**: ``root = [5,1,4,null,null,3,6]``
-**Output**: ``false``
-**Explanation**: ``The root node's value is 5 but its right child's value is 4.``
+- **Input**: ``root = [5,1,4,null,null,3,6]``
+- **Output**: ``false``
+- **Explanation**: ``The root node's value is 5 but its right child's value is 4.``
 
 #
 **[Back to The TOP](#section-overview)**
