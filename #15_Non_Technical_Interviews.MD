@@ -7,7 +7,7 @@
 * **[Tell Me About A Problem You Have Solved](#problem)**
 * **[What Is Your Biggest Weakness](#weakness)**
 * **[Any Questions For Us?](#questions)**
-* **[Resource list of questions to ask a company](#https://github.com/viraptor/reverse-interview/blob/master/README.md)**
+* **[Resource list of questions to ask a company](https://github.com/viraptor/reverse-interview/blob/master/README.md)**
 * **[Secret Weapon](#secret-weapon)**
 
 
