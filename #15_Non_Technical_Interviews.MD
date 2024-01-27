@@ -101,7 +101,7 @@ I became really interested, really engulfed in the programming landscape.
 
 ### <a name="why">Why Us?</a>
 
-[Why Us](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/45.JPG)
+![Why Us](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/45.JPG)
 
 Good answer example:
 
@@ -122,6 +122,17 @@ to but also learn and become better at.
 
 
 ### <a name="problem">Tell Me About A Problem You Have Solved</a>
+
+![]()
+
+Now with these type of questions, we want to use something called the SA method as a R method that
+
+SAR - situation, action and result.
+
+Is situation, action and result.
+
+
+
 
 #
 **[Back to The TOP](#section-overview)**
