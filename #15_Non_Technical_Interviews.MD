@@ -134,7 +134,7 @@ There's one last thing, and that is you're going to get a variation of this ques
 
 me about an interesting project you've worked on, and they're very similar.
 
-![Problem You Have Solved]()
+![Problem You Have Solved](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/47.JPG)
 
 #
 **[Back to The TOP](#section-overview)**
