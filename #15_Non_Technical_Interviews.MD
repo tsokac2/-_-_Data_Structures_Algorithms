@@ -164,7 +164,7 @@ to take before I actually dive into code.
 
 ### <a name="questions">Any Questions For Us?</a>
 
-![]()
+![Any Questions For Us](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/49.JPG)
 
 What is the greatest mistake you made in the first month of the job and what did you do?
 
