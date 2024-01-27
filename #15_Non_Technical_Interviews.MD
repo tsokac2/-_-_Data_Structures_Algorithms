@@ -142,7 +142,7 @@ me about an interesting project you've worked on, and they're very similar.
 
 ### <a name="weakness">What Is Your Biggest Weakness</a>
 
-![]()
+![weakness](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/48.JPG)
 
 Example:
 
@@ -163,6 +163,18 @@ to take before I actually dive into code.
 **[Back to The TOP](#section-overview)**
 
 ### <a name="questions">Any Questions For Us?</a>
+
+![]()
+
+What is the greatest mistake you made in the first month of the job and what did you do?
+
+Where do you see this company going in the next three years?
+
+Why did you join this company again?
+
+Have you seen your skills grow in the past year?
+
+What they wish somebody told them when they just started the job of this company?
 
 #
 **[Back to The TOP](#section-overview)**
