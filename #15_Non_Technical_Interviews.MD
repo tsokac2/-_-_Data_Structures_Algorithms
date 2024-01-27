@@ -7,6 +7,9 @@
 * **[Tell Me About A Problem You Have Solved](#problem)**
 * **[What Is Your Biggest Weakness](#weakness)**
 * **[Any Questions For Us?](#questions)**
+* **[Resource list of questions to ask a company](#https://github.com/viraptor/reverse-interview/blob/master/README.md)**
+
+
 
 ![During The Interview](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/43.png)
 
