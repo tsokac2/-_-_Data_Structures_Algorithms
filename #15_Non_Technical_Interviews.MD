@@ -188,7 +188,7 @@ What they wish somebody told them when they just started the job of this company
 
 ![Secret Weapon](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/50.JPG)
 
-**The first one is simplicity over complexity.**
+1. **The first one is simplicity over complexity.**
 
 Instead, you focused on readable code because you understood that working in a team means making sure
 
@@ -198,27 +198,84 @@ This is a great thing to point out in an interview because it's rare for somebod
 
 with only a few years of experience.
 
-**Premature optimization is the root of all evil.**
+2. **Premature optimization is the root of all evil.**
 
-**Overall goal and not be myopic.**
+3. **Overall goal and not be myopic.**
 
 Myopic means you're just very narrowly focused on one thing.
 
-**Complain about clients ugly code, maybe coworkers that can get frustrating.**
+4. **Complain about clients ugly code, maybe coworkers that can get frustrating.**
 
-**No ego**
+5. **No ego**
 
 It is a big problem for companies, but if you're the type of coder that likes getting feedback, that
 
 takes constructive criticism and understands that there's no ego here.
 
-We work as a team, there's no individual, and that the overall goal of the company or project is what
-
-matters.
+We work as a team, there's no individual, and that the overall goal of the company or project is what matters.
 
 And you're able to demonstrate that that immediately is a big sell or it makes you a very valuable developer.
 
+#
+**[Back to The TOP](#section-overview)**
 
+### After The Interview
+
+Well, first off, you want to thank your recruiter or the interviewer and you want to sound excited.
+
+And you also want to ask them when you should expect to hear back from them so that you have some sort of a timeline of when the decision is going to be made, whether to give you the job or to do another interview.
+
+
+![Thank you for your time]()
+
+
+Thank you for your time.
+
+I'm sure you have lots of candidates to see, but I want to say one last thing.
+
+There are no shortages of developers for you to interview.
+
+However, there is a shortage of good, talented, egoless developers with ambition to learn.
+
+It's not the ones that are unable to admit that they are wrong.
+
+The best developers aren't the ones that know the language inside and out at the expense of having blinders.
+
+It is not the ones who are unable to admit they are wrong.
+
+I am not the most experienced developer that you may interview today, but the one thing that you can
+
+guarantee is that there is nobody that you will interview that will work as hard to develop his or her
+
+skill every day, play nicely with all the other developers at the company and isn't so narrow minded
+
+and problem solving that he or she isn't willing to try new and novel ideas.
+
+When you hire me, you will rest assured that you won't have to micromanage me.
+
+You don't have to extinguish fires.
+
+And in one year I'll be one of your most valuable employees.
+
+I can guarantee that I am at a point in my career where I want to be surrounded by a team that I can
+
+grow with and be surrounded by smart people like yourself.
+
+And I've chosen this company specific for that reason.
+
+And you've probably had similar experiences in your career where one company allows you to really have
+
+an impact and propel your career.
+
+I am at the stage now and I hope to be part of the team with you.
+
+So thank you for your time and I hope to hear back soon from you.
+
+All right.
+
+That was it.
+
+Now, this may sound a little intense, but who would you hire?
 
 #
 **[Back to The TOP](#section-overview)**
