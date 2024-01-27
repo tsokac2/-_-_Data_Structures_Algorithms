@@ -120,10 +120,9 @@ to but also learn and become better at.
 #
 **[Back to The TOP](#section-overview)**
 
-
 ### <a name="problem">Tell Me About A Problem You Have Solved</a>
 
-![]()
+![Tell Me About A Problem You Have Solved](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/46.JPG)
 
 Now with these type of questions, we want to use something called the SA method as a R method that
 
@@ -131,8 +130,11 @@ SAR - situation, action and result.
 
 Is situation, action and result.
 
+There's one last thing, and that is you're going to get a variation of this question, such as tell
 
+me about an interesting project you've worked on, and they're very similar.
 
+![Problem You Have Solved]()
 
 #
 **[Back to The TOP](#section-overview)**
