@@ -8,6 +8,8 @@
 * **[What Is Your Biggest Weakness](#weakness)**
 * **[Any Questions For Us?](#questions)**
 * **[Resource list of questions to ask a company](#https://github.com/viraptor/reverse-interview/blob/master/README.md)**
+* **[Secret Weapon](#secret-weapon)**
+
 
 
 
@@ -178,6 +180,45 @@ Why did you join this company again?
 Have you seen your skills grow in the past year?
 
 What they wish somebody told them when they just started the job of this company?
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Secret Weapon
+
+![]()
+
+**The first one is simplicity over complexity.**
+
+Instead, you focused on readable code because you understood that working in a team means making sure
+
+that the code is readable and maintainable long after you've written it.
+
+This is a great thing to point out in an interview because it's rare for somebody to understand this
+
+with only a few years of experience.
+
+**Premature optimization is the root of all evil.**
+
+**Overall goal and not be myopic.**
+
+Myopic means you're just very narrowly focused on one thing.
+
+**Complain about clients ugly code, maybe coworkers that can get frustrating.**
+
+**No ego**
+
+It is a big problem for companies, but if you're the type of coder that likes getting feedback, that
+
+takes constructive criticism and understands that there's no ego here.
+
+We work as a team, there's no individual, and that the overall goal of the company or project is what
+
+matters.
+
+And you're able to demonstrate that that immediately is a big sell or it makes you a very valuable developer.
+
+
 
 #
 **[Back to The TOP](#section-overview)**
