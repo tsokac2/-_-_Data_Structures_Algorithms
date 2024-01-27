@@ -2,6 +2,8 @@
 
 ### Section overview
 * **[During The Interview](#during-the-interview)**
+* **[Tell Me About Yourself?](#yourself)**
+* **[Why Us?](#why)**
 
 ![During The Interview](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/43.png)
 
@@ -59,9 +61,9 @@ And challenge is they want to hear a story of you going through some really chal
 #
 **[Back to The TOP](#section-overview)**
 
-### Tell Me About Yourself?
+### <a name="yourself">Tell Me About Yourself?</a>
 
-![Tell Me About Yourself]()
+![Tell Me About Yourself](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/44.JPG)
 
 
 You also want to slightly discuss maybe your past projects, your past companies, so that you get asked
@@ -92,3 +94,11 @@ And the more I learned, the more I learned.
 I became really interested, really engulfed in the programming landscape.
 
 
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="why">Why Us?</a>
+
+
+#
+**[Back to The TOP](#section-overview)**
