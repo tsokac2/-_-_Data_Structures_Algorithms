@@ -226,7 +226,7 @@ Well, first off, you want to thank your recruiter or the interviewer and you wan
 And you also want to ask them when you should expect to hear back from them so that you have some sort of a timeline of when the decision is going to be made, whether to give you the job or to do another interview.
 
 
-![Thank you for your time]()
+![Thank you for your time](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/51.JPG)
 
 
 Thank you for your time.
