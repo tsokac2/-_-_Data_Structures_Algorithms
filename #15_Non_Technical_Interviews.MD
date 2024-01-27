@@ -5,7 +5,8 @@
 * **[Tell Me About Yourself?](#yourself)**
 * **[Why Us?](#why)**
 * **[Tell Me About A Problem You Have Solved](#problem)**
-
+* **[What Is Your Biggest Weakness](#weakness)**
+* **[Any Questions For Us?](#questions)**
 
 ![During The Interview](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/43.png)
 
@@ -135,6 +136,33 @@ There's one last thing, and that is you're going to get a variation of this ques
 me about an interesting project you've worked on, and they're very similar.
 
 ![Problem You Have Solved](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/47.JPG)
+
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="weakness">What Is Your Biggest Weakness</a>
+
+![]()
+
+Example:
+
+Maybe say something along the lines of Sometimes when there's a problem, I get straight into coding without really thinking about the problem.
+
+And as I'm typing, as I'm typing, I realize that perhaps I should have waited, planned out how I should write my code, how it should be structured, what problem am I really solving before I start just coding it?
+
+
+So lately I've taken the time to make sure that I write pseudocode first.
+
+Just commenting out the steps that I want to take.
+
+While my assumptions are what my inputs are and from there, write out the steps that I want my code
+
+to take before I actually dive into code.
+
+#
+**[Back to The TOP](#section-overview)**
+
+### <a name="questions">Any Questions For Us?</a>
 
 #
 **[Back to The TOP](#section-overview)**
