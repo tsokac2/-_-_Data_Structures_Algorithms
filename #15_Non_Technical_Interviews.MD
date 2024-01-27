@@ -186,7 +186,7 @@ What they wish somebody told them when they just started the job of this company
 
 ### Secret Weapon
 
-![]()
+![Secret Weapon](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/50.JPG)
 
 **The first one is simplicity over complexity.**
 
