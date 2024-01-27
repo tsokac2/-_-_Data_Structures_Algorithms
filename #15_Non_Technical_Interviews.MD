@@ -4,6 +4,8 @@
 * **[During The Interview](#during-the-interview)**
 * **[Tell Me About Yourself?](#yourself)**
 * **[Why Us?](#why)**
+* **[Tell Me About A Problem You Have Solved](#problem)**
+
 
 ![During The Interview](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/43.png)
 
@@ -99,6 +101,27 @@ I became really interested, really engulfed in the programming landscape.
 
 ### <a name="why">Why Us?</a>
 
+[Why Us]()
+
+Good answer example:
+
+Well, you know, I've been researching your company for a while, and I noticed that you're doing some
+
+work on X, and I myself have done some work in the past similar to this, and this is what I learned
+
+about it.
+
+And then you can go on with that, and then you can say something along the lines of.
+
+And I think the problem of X is really interesting, and I think it's something that I can add value
+
+to but also learn and become better at.
+
+#
+**[Back to The TOP](#section-overview)**
+
+
+### <a name="problem">Tell Me About A Problem You Have Solved</a>
 
 #
 **[Back to The TOP](#section-overview)**
