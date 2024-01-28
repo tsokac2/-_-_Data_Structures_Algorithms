@@ -1,4 +1,4 @@
-<h1 align="center">Offer Negotiation</h1>
+<h1 align="center">Offer + Negotiation</h1>
 
 ### Section overview
 * **[During The Interview](#during-the-interview)**
