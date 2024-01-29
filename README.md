@@ -20,31 +20,24 @@
 
 * **[10 Data Structures Graphs](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2310_Data_Structures_Graphs.MD)**
 
+* **[11 Algorithms Recursion](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2311_Algorithms_Recursion.MD)**
 
+* **[12 Algorithms Sorting](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2312_Algorithms_Sorting.MD)**
+
+* **[13 Algorithms Searching + BFS + DFS](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2313_Algorithms_Searching_%2B_BFS_%2B_DFS.MD)**
+
+* **[14 Algorithms Dynamic Programming](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2314_Algorithms_Dynamic_Programming.MD)**
 
 * **[15 Non Technical Interviews](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2315_Non_Technical_Interviews.MD)**
 
 * **[16 Offer + Negotiation](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2316_Offer_%2B_Negotiation.MD)**
 
-
-
-
-
 * **[Code Data Structures + Algorithms](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo)**
-
 
 * **[Big O Cheatsheet](https://www.bigocheatsheet.com/)**
 
-
-
 * **[Coding Challenges](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/Coding_Challenges.MD)**
-
 
 * **[TopTal - JavaScript Hiring-guide](https://www.toptal.com/javascript#hiring-guide)**
 
-
-
 ![Img_01](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/01.png)
-
-
-
