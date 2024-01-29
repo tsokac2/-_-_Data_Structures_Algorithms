@@ -16,6 +16,8 @@
 * **[House Robber](#house-robber)**
 * **[Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)**
 * **[Climbing Stairs](#climbing-stairs)**
+* **[Coding Problems - Advent of Code](#coding-problems)**
+
 * **[15th Short Challenges](#15th-challenges)**
 
 
@@ -419,6 +421,18 @@ Each time you can either climb ``1`` or ``2`` steps. In how many distinct ways c
 1. 1 step + 1 step + 1 step
 2. 1 step + 2 steps
 3. 2 steps + 1 step
+
+#
+**[Back to The TOP](#section-overview)**
+
+
+### <a name="coding-problems">Coding Problems - Advent of Code</a>
+
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
+
+People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
+
+**[adventofcode](https://adventofcode.com/)**
 
 #
 **[Back to The TOP](#section-overview)**
