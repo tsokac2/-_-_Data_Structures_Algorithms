@@ -17,6 +17,7 @@
 * **[Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)**
 * **[Climbing Stairs](#climbing-stairs)**
 * **[Coding Problems - Advent of Code](#coding-problems)**
+* **[General Top Interview Questions](#top-q)**
 
 * **[15th Short Challenges](#15th-challenges)**
 
@@ -425,7 +426,6 @@ Each time you can either climb ``1`` or ``2`` steps. In how many distinct ways c
 #
 **[Back to The TOP](#section-overview)**
 
-
 ### <a name="coding-problems">Coding Problems - Advent of Code</a>
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
@@ -436,6 +436,18 @@ People use them as interview prep, company training, university coursework, prac
 
 #
 **[Back to The TOP](#section-overview)**
+
+
+### <a name="top-q">General Top Interview Questions</a>
+
+1. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
+2. 
+
+
+
+#
+**[Back to The TOP](#section-overview)**
+
 
 ### 15th Challenges
 
