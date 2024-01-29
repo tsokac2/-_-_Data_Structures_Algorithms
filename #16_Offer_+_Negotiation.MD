@@ -1,7 +1,16 @@
 <h1 align="center">Offer + Negotiation</h1>
 
 ### Section overview
-* **[During The Interview](#during-the-interview)**
+* **[Handling Rejection](#handling-rejection)**
+
+
+![Offer]()
+
+
+#
+**[Back to The TOP](#section-overview)**
+
+### Handling Rejection
 
 #
 **[Back to The TOP](#section-overview)**
