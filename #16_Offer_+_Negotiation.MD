@@ -134,7 +134,7 @@ Since my timeline is now a little bit compressed with this new offer, is there a
 
 ### Handling Multiple Offers
 
-![]()
+![Handling Multiple Offers](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/55.JPG)
 
 #
 **[Back to The TOP](#section-overview)**
