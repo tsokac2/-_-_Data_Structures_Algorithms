@@ -1,7 +1,7 @@
 <h1 align="center">Non Technical Interviews</h1>
 
 ### Section overview
-* **[During The Interview](#during-the-interview)**
+* **[During The Interview - Mindset](#mindset)**
 * **[Tell Me About Yourself?](#yourself)**
 * **[Why Us?](#why)**
 * **[Tell Me About A Problem You Have Solved](#problem)**
@@ -10,59 +10,36 @@
 * **[Resource list of questions to ask a company](https://github.com/viraptor/reverse-interview/blob/master/README.md)**
 * **[Secret Weapon](#secret-weapon)**
 
-
 ![During The Interview](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/43.png)
 
 
-### During The Interview
-
-**Mindset**:
+### <a name="mindset">During The Interview - Mindset</a>
 
 This is not your only chance!
 
-You see, the biggest mistake that we made going into an interview is that, well, thinking that this is your only chance.
+One of the most significant mistakes people make when going into an interview is believing that it's their only opportunity. Instead, approach interviews with the understanding that you have numerous other chances.
 
-The way you walk into an interview is to walk in knowing that you have many other opportunities.
+The key to a successful interview is to treat it as a learning experience. Approach the situation with enthusiasm, energy, and a genuine excitement to be there.
 
-So first and foremost, treat everything as a learning experience.
+Employ a classic psychological technique where human interactions involve matching each other's energy and level. By entering the room with positivity, you create a more favorable impression.
 
-Your goal is to enter the room with a lot of energy, being happy, excited to be there.
+#### 4 Heroes - Address fundamental questions during the interview:
 
-And this is a classic psychological technique where humans, when we interact with each other, we match each other's energy and energy level.
+1. **Can you do the job?**
 
-Can you do the job? Answer hard tech questions.
+- Be prepared to answer challenging technical questions related to your experience, projects, and portfolio.
 
-Can I work with you?
+2. **Can I work with you?**
 
-Are you going to improve?
+- Showcase success stories that highlight your achievements, such as developing a successful app or earning a promotion to a senior position in a previous job, including training junior staff.
 
-#### 4 Heroes
+3. **Are you going to improve?**
 
-You see, before you enter the interview, you have to have somewhere between 2 to 4 stories prepared that I call the four heroes.
+- Demonstrate leadership qualities with stories that emphasize your ability to succeed and improve in various roles.
 
-1. Technical experienc 
-- story about your tech experience
-- your project, portfolio
+4. **Challenge**
 
-2. Success
-- You want to have some sort of story that shows you that you're a successful person, not a person that
-
-Did you maybe start a little app that turned out to be quite successful and it got a lot of users.
-
-Maybe your past job, you got promoted to a senior level position - tranig junior staff
-
-
-3. Leadership
-- You want to have some sort of story that shows you that you're a successful person, not a person that never succeeds in any job.
-
-The next one is leadership.
-
-Are you the type of person that tak
-
-4. Challenge
-
-And challenge is they want to hear a story of you going through some really challenging things, maybe a challenging technical problem that you had on a project and how you overcame it because you're a type of person that when presented with something that is really difficult, that has no clear solution,
-
+- Share a story of overcoming a significant challenge, perhaps a complex technical problem in a project. Highlight your problem-solving skills, showcasing your ability to tackle difficult situations with no clear solution.
 
 #
 **[Back to The TOP](#section-overview)**
@@ -72,32 +49,17 @@ And challenge is they want to hear a story of you going through some really chal
 ![Tell Me About Yourself](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/44.JPG)
 
 
-You also want to slightly discuss maybe your past projects, your past companies, so that you get asked
+It's also beneficial to briefly touch upon your past projects and previous roles during the interview. This can prompt the interviewer to inquire further about these experiences. 
 
-questions about these projects or past companies by the interviewer.
+Keep in mind that the interviewer is likely to ask follow-up questions based on the information you provide.
 
-Because keep in mind, the interviewer is going to ask follow up questions based on this.
+While sharing about yourself, consider that certain details, like being an origami master five years ago, may be intriguing but might not be relevant to the interviewer.
 
-And when you talk about yourself, maybe it's interesting that you were an origami master five years
+When preparing your narrative, aim for brevity while ensuring it remains impactful to distinguish yourself from other candidates.
 
-ago, but it might not matter to the interviewer.
+Personally, my interest in coding deepened a couple of years ago when I ventured into small side businesses. In those ventures, I would enlist developers and designers to create websites or apps for me. 
 
-
-Prepare story just keep it short and to the point, but make sure you stand out from the crowd.
-
-Well, I got really interested in coding a couple of years back when I would start this small little
-
-side businesses, and I would hire developers and designers to build a website or an app for me.
-
-And it was always a black box where I would pay this developer money and they will come back with a
-
-product that I was never fully satisfied for.
-
-So I started teaching myself how to code because I wanted to know how this black box works.
-
-And the more I learned, the more I learned.
-
-I became really interested, really engulfed in the programming landscape.
+However, the process felt like a black box; I would invest money, and the outcome often fell short of my expectations. To demystify this, I took the initiative to learn coding. The more I delved into it, the more engrossed I became in the programming landscape.
 
 
 #
