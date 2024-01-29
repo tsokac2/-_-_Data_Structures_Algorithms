@@ -1,4 +1,4 @@
-<h1 align="center">Data Structures: Stacks + Queues</h1>
+<h1 align="center">Data Structures: Trees</h1>
 
 ### Section overview
 * **[Trees Introduction](#trees-introduction)**
