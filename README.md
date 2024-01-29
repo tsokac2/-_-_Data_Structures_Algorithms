@@ -18,6 +18,12 @@
 
 
 
+* **[15 Non Technical Interviews](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2315_Non_Technical_Interviews.MD)**
+
+
+
+
+
 * **[Code Data Structures + Algorithms](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo)**
 
 
