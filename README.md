@@ -20,6 +20,8 @@
 
 * **[15 Non Technical Interviews](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2315_Non_Technical_Interviews.MD)**
 
+* **[16 Offer + Negotiation](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2316_Offer_%2B_Negotiation.MD)**
+
 
 
 
