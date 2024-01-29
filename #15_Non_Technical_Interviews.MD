@@ -95,24 +95,19 @@ There's one additional aspect to consider, and that is you may encounter variati
 **[Back to The TOP](#section-overview)**
 
 ### <a name="weakness">What Is Your Biggest Weakness</a>
-
 ![weakness](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/48.JPG)
 
-Example:
+Often, when faced with a problem, I tend to immediately dive into coding without giving much thought to the underlying issue.
 
-Maybe say something along the lines of Sometimes when there's a problem, I get straight into coding without really thinking about the problem.
+However, as I type away, I begin to realize the importance of patience. It occurs to me that I should have taken a moment to plan out my code, consider its structure, and define the specific problem I am addressing before rushing into the coding phase.
 
-And as I'm typing, as I'm typing, I realize that perhaps I should have waited, planned out how I should write my code, how it should be structured, what problem am I really solving before I start just coding it?
+In light of this realization, I have recently adopted a more deliberate approach. Now, I make it a point to start by writing pseudocode. This involves outlining the steps I intend to take and commenting on the overall process. 
 
+I carefully consider my assumptions about inputs and then proceed to articulate the sequential steps my code should follow. Only after this thorough planning phase do I actually start coding.
 
-So lately I've taken the time to make sure that I write pseudocode first.
+This shift in my workflow has proven beneficial, as it ensures a more thoughtful and structured development process. 
 
-Just commenting out the steps that I want to take.
-
-While my assumptions are what my inputs are and from there, write out the steps that I want my code
-
-to take before I actually dive into code.
-
+It allows me to approach coding with a clearer understanding of the problem at hand and results in more efficient and effective solutions.
 #
 **[Back to The TOP](#section-overview)**
 
