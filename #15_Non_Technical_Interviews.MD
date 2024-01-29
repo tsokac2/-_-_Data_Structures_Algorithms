@@ -61,7 +61,6 @@ Personally, my interest in coding deepened a couple of years ago when I ventured
 
 However, the process felt like a black box; I would invest money, and the outcome often fell short of my expectations. To demystify this, I took the initiative to learn coding. The more I delved into it, the more engrossed I became in the programming landscape.
 
-
 #
 **[Back to The TOP](#section-overview)**
 
@@ -69,19 +68,13 @@ However, the process felt like a black box; I would invest money, and the outcom
 
 ![Why Us](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/45.JPG)
 
-Good answer example:
+**Good answer example**:
 
-Well, you know, I've been researching your company for a while, and I noticed that you're doing some
-
-work on X, and I myself have done some work in the past similar to this, and this is what I learned
-
-about it.
+Well, you know, I've been researching your company for a while, and I noticed that you're doing some work on X, and I myself have done some work in the past similar to this, and this is what I learned about it.
 
 And then you can go on with that, and then you can say something along the lines of.
 
-And I think the problem of X is really interesting, and I think it's something that I can add value
-
-to but also learn and become better at.
+And I think the problem of X is really interesting, and I think it's something that I can add value to but also learn and become better at.
 
 #
 **[Back to The TOP](#section-overview)**
@@ -90,15 +83,11 @@ to but also learn and become better at.
 
 ![Tell Me About A Problem You Have Solved](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/46.JPG)
 
-Now with these type of questions, we want to use something called the SA method as a R method that
+When dealing with these types of questions, we aim to employ a methodology known as the **SAR method**, which stands for **Situation**, **Action**, and **Result**.
 
-SAR - situation, action and result.
+**SAR** entails describing the Situation, the corresponding Action taken, and the ultimate Result achieved.
 
-Is situation, action and result.
-
-There's one last thing, and that is you're going to get a variation of this question, such as tell
-
-me about an interesting project you've worked on, and they're very similar.
+There's one additional aspect to consider, and that is you may encounter variations of this question, such as being asked to elaborate on an interesting project you've worked on. These variations are very similar in nature.
 
 ![Problem You Have Solved](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/47.JPG)
 
