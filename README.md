@@ -14,7 +14,11 @@
 
 * **[07 Data Structures: Linked Lists](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2307_Data_Structures_Linked_Lists.MD)**
 
+* **[08 Data Structures Stacks + Queues](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2308_Data_Structures_Stacks_%2B_Queues.MD)**
 
+* **[09 Data Structures Trees](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2309_Data_Structures_Trees.MD)**
+
+* **[10 Data Structures Graphs](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/%2310_Data_Structures_Graphs.MD)**
 
 
 
