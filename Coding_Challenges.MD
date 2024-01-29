@@ -13,13 +13,9 @@
 * **[Exercise: Factorial](#e-factorial)**
 * **[Exercise: Fibonacci](#e-fibonacci)**
 * **[Validate Binary Search Tree](#validate-binary-search-tree)**
-
 * **[House Robber](#house-robber)**
-
 * **[Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)**
-
 * **[Climbing Stairs](#climbing-stairs)**
-
 * **[15th Short Challenges](#15th-challenges)**
 
 
