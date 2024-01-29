@@ -115,15 +115,17 @@ It allows me to approach coding with a clearer understanding of the problem at h
 
 ![Any Questions For Us](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/49.JPG)
 
-What is the greatest mistake you made in the first month of the job and what did you do?
+**Question examples**:
 
-Where do you see this company going in the next three years?
+- What is the greatest mistake you made in the first month of the job, and what did you do?
 
-Why did you join this company again?
+- Where do you see this company going in the next three years?
 
-Have you seen your skills grow in the past year?
+- Why did you join this company again?
 
-What they wish somebody told them when they just started the job of this company?
+- Have you seen your skills grow in the past year?
+
+- What do they wish somebody told them when they just started the job at this company?
 
 #
 **[Back to The TOP](#section-overview)**
@@ -132,33 +134,31 @@ What they wish somebody told them when they just started the job of this company
 
 ![Secret Weapon](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/50.JPG)
 
-1. **The first one is simplicity over complexity.**
 
-Instead, you focused on readable code because you understood that working in a team means making sure
+#### Prioritizing Simplicity over Complexity:
+Instead, you emphasized the importance of writing readable code. Your recognition that collaboration within a team involves ensuring code remains comprehensible and maintainable long after its initial creation is noteworthy. 
 
-that the code is readable and maintainable long after you've written it.
+This perspective sets you apart, especially considering the rarity of such insight among individuals with only a few years of experience.
 
-This is a great thing to point out in an interview because it's rare for somebody to understand this
+#### Avoiding Premature Optimization:
+The phrase "Premature optimization is the root of all evil" underscores the wisdom of not overly focusing on optimizing code before it's necessary. 
 
-with only a few years of experience.
+This principle advocates for addressing performance concerns at the right time rather than prematurely, ensuring a balanced and efficient development process.
 
-2. **Premature optimization is the root of all evil.**
+#### Maintaining an Overall Goal and Avoiding Myopic Focus:
+Highlighting the importance of having an overarching goal and steering clear of myopic tendencies is crucial. 
 
-3. **Overall goal and not be myopic.**
+Myopic focus can hinder progress by limiting one's perspective to a narrow scope. Acknowledging the broader objectives ensures a more comprehensive and forward-thinking approach to projects.
 
-Myopic means you're just very narrowly focused on one thing.
+#### Handling Frustrations with Code:
+Acknowledging challenges, such as dealing with clients' less-than-ideal code or potentially frustrating coworkers, is a realistic aspect of the job. 
 
-4. **Complain about clients ugly code, maybe coworkers that can get frustrating.**
+It's essential to approach these situations with a constructive mindset, seeking solutions rather than dwelling on complaints. This demonstrates a proactive approach to problem-solving and team collaboration.
 
-5. **No ego**
+#### Embracing Humility and Team Dynamics:
+Maintaining a humble attitude is critical in a collaborative coding environment. Your ability to refrain from complaining about others, coupled with a willingness to receive feedback and constructive criticism, showcases a team-oriented mentality. 
 
-It is a big problem for companies, but if you're the type of coder that likes getting feedback, that
-
-takes constructive criticism and understands that there's no ego here.
-
-We work as a team, there's no individual, and that the overall goal of the company or project is what matters.
-
-And you're able to demonstrate that that immediately is a big sell or it makes you a very valuable developer.
+Recognizing that individual egos should not overshadow the collective goal of the company or project is a valuable trait that positions you as an asset within a development team. This perspective makes you not just a skilled coder but also a valuable team player, contributing to the success of the overall project.
 
 #
 **[Back to The TOP](#section-overview)**
