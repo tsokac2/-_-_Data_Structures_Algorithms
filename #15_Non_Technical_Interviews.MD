@@ -9,6 +9,8 @@
 * **[Any Questions For Us?](#questions)**
 * **[Resource list of questions to ask a company](https://github.com/viraptor/reverse-interview/blob/master/README.md)**
 * **[Secret Weapon](#secret-weapon)**
+* **[After The Interview](#after-the-interview)**
+
 
 ![During The Interview](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/43.png)
 
