@@ -83,7 +83,7 @@ And you knew for sure that the other side would sign a contract or accept the sa
 
 ### Handling An Offer
 
-![]()
+![Handling An Offer](https://github.com/tsokac2/-_-_Data_Structures_Algorithms/blob/main/src/54.JPG)
 
 **Don't end the conversation**
 
@@ -129,11 +129,12 @@ I had a really good time interviewing with you and I really want to see if we ca
 
 Since my timeline is now a little bit compressed with this new offer, is there anything we can do to make the process go a little bit faster?
 
+#
+**[Back to The TOP](#section-overview)**
 
-**TO DO**:
+### Handling Multiple Offers
 
-
-
+![]()
 
 #
 **[Back to The TOP](#section-overview)**
