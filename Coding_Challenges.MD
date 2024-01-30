@@ -441,9 +441,16 @@ People use them as interview prep, company training, university coursework, prac
 ### <a name="top-q">General Top Interview Questions</a>
 
 1. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
-2. 
-
-
+2. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+3. [Single Number](https://leetcode.com/problems/single-number/)
+4. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+5. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+6. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+8. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+9. [Majority Element](https://leetcode.com/problems/majority-element/description/)
+10. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+11. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 
 #
 **[Back to The TOP](#section-overview)**
