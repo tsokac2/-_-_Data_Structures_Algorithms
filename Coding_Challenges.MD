@@ -18,6 +18,7 @@
 * **[Climbing Stairs](#climbing-stairs)**
 * **[Coding Problems - Advent of Code](#coding-problems)**
 * **[General Top Interview Questions](#top-q)**
+* **[Amazon Interview Questions](#amazon-q)**
 
 * **[15th Short Challenges](#15th-challenges)**
 
@@ -437,20 +438,37 @@ People use them as interview prep, company training, university coursework, prac
 #
 **[Back to The TOP](#section-overview)**
 
-
 ### <a name="top-q">General Top Interview Questions</a>
+1. **[Reverse String](https://leetcode.com/problems/reverse-string/description/)**
+2. **[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)**
+3. **[Single Number](https://leetcode.com/problems/single-number/)**
+4. **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)**
+5. **[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)**
+6. **[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)**
+7. **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)**
+8. **[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)**
+9. **[Majority Element](https://leetcode.com/problems/majority-element/description/)**
+10. **[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)**
+11. **[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)**
+12. **[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)**
+13. **[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)**
+14. **[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)**
+15. **[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)**
+16. **[Rotate Array](https://leetcode.com/problems/rotate-array/description/)**
+17. **[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)**
+18. **[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)**
+19. **[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)**
+20. **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)**
+#
+**[Back to The TOP](#section-overview)**
 
-1. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
-2. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
-3. [Single Number](https://leetcode.com/problems/single-number/)
-4. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
-5. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
-6. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-8. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-9. [Majority Element](https://leetcode.com/problems/majority-element/description/)
-10. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
-11. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+### <a name="amazon-q">Amazon Interview Questions</a>
+
+1. **[Two Sum](https://leetcode.com/problems/two-sum/description/)**
+2. **[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)**
+3. **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)**
+4. **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)**
+5. **[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)**
 
 #
 **[Back to The TOP](#section-overview)**
