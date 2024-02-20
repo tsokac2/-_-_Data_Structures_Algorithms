@@ -26,7 +26,6 @@
 * **[Indeed Coding Challenge](#indeed)**
 
 #
-
 ### Create Rectangles
 
 Given a rectangle with dimensions N*M and an integer K. You divide this rectangle into smaller sub-rectangles such that the given conditions are satisfied:
@@ -857,5 +856,36 @@ This recursive function, ``sumGeneratorValues``, continues calling itself until 
 #
 
 ### <a name="indeed">Indeed Coding Challenge</a>
+
+#### Task 1
+Given an unsorted array of ``n`` elements, find if the element ``k`` is present in the array or not.
+Complete the ``findNumber`` function in the editr below. It has 2 parameters:
+1. An array of integers, arr, denoting the elements in the array.
+2. An integer, k, denoting the element to be searched in the array.
+
+The function must return a string "YES" or "NO" denoting if the element is present in the array or not.
+
+**Input Format**
+
+The first line contains an integer ``n``, denoting the number of elements in the array arr.
+Each line ``i`` of the ``n`` subsequent lines (where ``0 <= i < n``) contains an integer describing arr.
+The next line contains an integer, ``k``, the element that neeed to be searched.
+
+**Output Format**
+The function must return a string "YES" or "NO" denoting if the element is present in the array or not. 
+This is printed to stdout by locked stub code in the editor.
+
+#### Task 2
+Which of the following sorting algorithms has the best asymptotic runtime complexity?
+
+**Answer**
+- [ ] Bubble Sort
+- [x] Heap Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+
+In summary, among the given sorting algorithms, **Heap Sort** has the best asymptotic runtime complexity, ``O(n log n)`` in the worst case. 
+
+This makes it more suitable for large datasets compared to Bubble Sort, Selection Sort, and Insertion Sort.
 
 **[Back to The TOP](#section-overview)**
