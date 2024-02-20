@@ -23,7 +23,9 @@
 * **[Google Interview Questions](#google-q)**
 * **[Domain Specific Questionss](#d-questions)**
 * **[15th Short Challenges](#15th-challenges)**
+* **[Indeed Coding Challenge](#indeed)**
 
+#
 
 ### Create Rectangles
 
@@ -57,8 +59,9 @@ Complete the `solve` function. This function takes the following 3 parameters an
 
 #### Output format
 For each test case in a new line, print the answer representing the minimum cost.
-#
+
 **[Back to The TOP](#section-overview)**
+#
 
 ### <a name="arrays">Interview Questions: Arrays</a>
 #### Two Sum
@@ -176,8 +179,10 @@ Given an integer array ``nums``, rotate the array to the right by ``k`` steps, w
 - rotate 2 steps to the right: ``[3,99,-1,-100]``
 
 **[Case Link](https://leetcode.com/problems/rotate-array/description/)**
-#
+
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### First Recurring Character
 
@@ -215,13 +220,13 @@ function firstRecurringCharacter2(input) {
 
 firstRecurringCharacter2([1,5,5,1,3,4,6])
 
-
 //Bonus... What if we had this:
 // [2,5,5,2,3,5,1,2,4]
 // return 5 because the pairs are before 2,2
 ```
-#
+
 **[Back to The TOP](#section-overview)**
+#
 
 ### Implement Queue using Stacks
 
@@ -258,9 +263,8 @@ myQueue.peek(); // return 1
 myQueue.pop(); // return 1, queue is [2]
 myQueue.empty(); // return false
 ```
-
-#
 **[Back to The TOP](#section-overview)**
+#
 
 ### <a name="e-factorial">Exercise: Factorial</a>
 
@@ -294,8 +298,9 @@ function findFactorialRecursive(number) {
 }
 findFactorialRecursive(5);
 ```
-#
+
 **[Back to The TOP](#section-overview)**
+#
 
 ### <a name="e-fibonacci"> Exercise: Fibonacci</a>
 
@@ -330,8 +335,9 @@ function fibonacciRecursive(n) {
 
 fibonacciRecursive(6)
 ```
-#
+
 **[Back to The TOP](#section-overview)**
+#
 
 ### Validate Binary Search Tree
 
@@ -358,8 +364,9 @@ A **valid BST** is defined as follows:
 - **Output**: ``false``
 - **Explanation**: ``The root node's value is 5 but its right child's value is 4.``
 
-#
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### House Robber
 
@@ -379,8 +386,9 @@ Given an integer array ``nums`` representing the amount of money of each house, 
 - **Explanation**: Rob house 1 (money = 2), rob house 3 (money = 9) and rob house 5 (money = 1).
 - Total amount you can rob = 2 + 9 + 1 = 12.
 
-#
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### Best Time to Buy and Sell Stock
 
@@ -402,8 +410,9 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 - **Output**: 0
 - **Explanation**: In this case, no transactions are done and the max profit = 0.
 
-#
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### Climbing Stairs
 
@@ -426,8 +435,9 @@ Each time you can either climb ``1`` or ``2`` steps. In how many distinct ways c
 2. 1 step + 2 steps
 3. 2 steps + 1 step
 
-#
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### <a name="coding-problems">Coding Problems - Advent of Code</a>
 
@@ -437,8 +447,9 @@ People use them as interview prep, company training, university coursework, prac
 
 **[adventofcode](https://adventofcode.com/)**
 
-#
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### <a name="top-q">General Top Interview Questions</a>
 1. **[Reverse String](https://leetcode.com/problems/reverse-string/description/)**
@@ -461,8 +472,10 @@ People use them as interview prep, company training, university coursework, prac
 18. **[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)**
 19. **[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)**
 20. **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)**
-#
+
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### <a name="amazon-q">Amazon Interview Questions</a>
 
@@ -472,8 +485,8 @@ People use them as interview prep, company training, university coursework, prac
 4. **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)**
 5. **[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)**
 
-#
 **[Back to The TOP](#section-overview)**
+#
 
 ### <a name="facebook-q">Facebook Interview Questions</a>
 1. **[Two Sum](https://leetcode.com/problems/two-sum/description/)**
@@ -499,8 +512,10 @@ People use them as interview prep, company training, university coursework, prac
 2. **[Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)**
 3. **[Javascript Interview Questions Toptal](https://www.toptal.com/javascript/interview-questions)**
 3. **[JS: Basics and Tricky Questions](https://www.thatjsdude.com/interview/js2.html)**
-#
+
 **[Back to The TOP](#section-overview)**
+#
+
 
 ### 15th Challenges
 
@@ -666,7 +681,6 @@ const baz = function(){
 foo
 bar
 ```
-
 **Explanation**:
 ```
 (function foo (){
@@ -840,4 +854,8 @@ console.log(result); // Output: 10 (0 + 1 + 2 + 3 + 4)
 This recursive function, ``sumGeneratorValues``, continues calling itself until it reaches the end of the generator (done is true). It adds up the values during each iteration, resulting in the sum of all yielded values.
 
 **[Back to The TOP](#section-overview)**
+#
 
+### <a name="indeed">Indeed Coding Challenge</a>
+
+**[Back to The TOP](#section-overview)**
