@@ -885,7 +885,6 @@ Which of the following sorting algorithms has the best asymptotic runtime comple
 - [ ] Insertion Sort
 
 In summary, among the given sorting algorithms, **Heap Sort** has the best asymptotic runtime complexity, ``O(n log n)`` in the worst case. 
-
 This makes it more suitable for large datasets compared to Bubble Sort, Selection Sort, and Insertion Sort.
 
 **[Back to The TOP](#section-overview)**
